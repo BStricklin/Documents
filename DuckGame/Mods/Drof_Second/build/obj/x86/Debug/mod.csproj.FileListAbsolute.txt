@@ -1,0 +1,13 @@
+C:\Users\bradf\Documents\DuckGame\ModTemplate1\build\obj\x86\Debug\MyMod.dll
+C:\Users\bradf\Documents\DuckGame\ModTemplate1\build\obj\x86\Debug\MyMod.pdb
+C:\Users\bradf\Documents\DuckGame\ModTemplate1\MyMod.dll
+C:\Users\bradf\Documents\DuckGame\ModTemplate1\MyMod.pdb
+C:\Users\bradf\Documents\DuckGame\Mods\ModTemplate1\build\obj\x86\Debug\MyMod.dll
+C:\Users\bradf\Documents\DuckGame\Mods\ModTemplate1\build\obj\x86\Debug\MyMod.pdb
+C:\Users\bradf\Documents\DuckGame\Mods\ModTemplate1\MyMod.dll
+C:\Users\bradf\Documents\DuckGame\Mods\ModTemplate1\MyMod.pdb
+C:\Users\bradf\Documents\DuckGame\Mods\Drof_Second\build\obj\x86\Debug\MyMod.dll
+C:\Users\bradf\Documents\DuckGame\Mods\Drof_Second\build\obj\x86\Debug\MyMod.pdb
+C:\Users\bradf\Documents\DuckGame\Mods\Drof_Second\MyMod.dll
+C:\Users\bradf\Documents\DuckGame\Mods\Drof_Second\MyMod.pdb
+C:\Users\bradf\Documents\DuckGame\Mods\Drof_Second\build\obj\x86\Debug\mod.csprojResolveAssemblyReference.cache

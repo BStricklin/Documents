@@ -1,0 +1,193 @@
+<Roster version="6" xp="24700">
+    <DefaultEquipment/>
+    <Trooper class="Assaulter">
+        <Id name="Tom Clancy" nameAbbrev="T. Clancy" callsign="Redstorm" portrait="data/textures/gui/customization/portraits/default7.tga"/>
+        <Equipment>
+            <Item name="Mp5A3 SMG"/>
+            <Item name="G17 Pistol"/>
+            <Item name="Low Threat Armor"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Bolt Cutter"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <InnateAbilities>
+            <InnateAbility name="Marksmanship" percent="5"/>
+            <InnateAbility name="Assault shooting" percent="47"/>
+            <InnateAbility name="Field skills" percent="38"/>
+        </InnateAbilities>
+        <Stats IsDead="0" PreviousXP="15120" XP="15270" Weapon0="-478975918" Weapon1="-1004281841" None="0" MissionsFailed="1" MissionsWon1Star="0" MissionsWon2Star="3" MissionsWon3Star="5" BulletsFired="75" BulletsHit="58" Kills="22" KillsStunnedTarget="6" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="3" GrenadesUsed="8" Paths="23" PathModifications="3798" DistanceWalkedCM="15120" WaitingForGoCodeMSec="34828" Arrests="0" CompletedHealthy="2" PerfectAccuracy="5" ChallengesCompleted="12" BombsDisarmed="0"/>
+    </Trooper>
+    <Trooper class="Assaulter">
+        <Id name="Matt Fortino" nameAbbrev="M. Fortino" callsign="Harry Two" portrait="data/textures/gui/customization/portraits/mfortino.tga"/>
+        <Equipment>
+            <Item name="Mp5A3 SMG"/>
+            <Item name="G17 Pistol"/>
+            <Item name="Low Threat Armor"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <InnateAbilities>
+            <InnateAbility name="Marksmanship" percent="77"/>
+            <InnateAbility name="Assault shooting" percent="13"/>
+            <InnateAbility name="Field skills" percent="3"/>
+        </InnateAbilities>
+        <Stats IsDead="0" PreviousXP="0" XP="0" Weapon0="0" Weapon1="0" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="0" BulletsHit="0" Kills="0" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="0" PathModifications="0" DistanceWalkedCM="0" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+    </Trooper>
+    <Trooper class="Assaulter">
+        <Id name="Neal Stevens" nameAbbrev="N. Stevens" callsign="Onkel" portrait="data/textures/gui/customization/portraits/default5.tga"/>
+        <Equipment>
+            <Item name="Mp5A3 SMG"/>
+            <Item name="G17 Pistol"/>
+            <Item name="Low Threat Armor"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <InnateAbilities>
+            <InnateAbility name="Marksmanship" percent="15"/>
+            <InnateAbility name="Assault shooting" percent="48"/>
+            <InnateAbility name="Field skills" percent="20"/>
+        </InnateAbilities>
+        <Stats IsDead="0" PreviousXP="0" XP="0" Weapon0="0" Weapon1="0" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="0" BulletsHit="0" Kills="0" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="0" PathModifications="0" DistanceWalkedCM="0" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+    </Trooper>
+    <Trooper class="Assaulter">
+        <Id name="Marius Neacsa" nameAbbrev="M. Neacsa" callsign="Mandea" portrait="data/textures/gui/customization/portraits/mneacsa.tga"/>
+        <Equipment>
+            <Item name="Mp5A3 SMG"/>
+            <Item name="G17 Pistol"/>
+            <Item name="Low Threat Armor"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Bolt Cutter"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <InnateAbilities>
+            <InnateAbility name="Marksmanship" percent="2"/>
+            <InnateAbility name="Assault shooting" percent="81"/>
+            <InnateAbility name="Field skills" percent="14"/>
+        </InnateAbilities>
+        <Stats IsDead="0" PreviousXP="6840" XP="9430" Weapon0="-478975918" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="2" MissionsWon3Star="4" BulletsFired="47" BulletsHit="31" Kills="13" KillsStunnedTarget="5" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="1" GrenadesUsed="5" Paths="11" PathModifications="3356" DistanceWalkedCM="10105" WaitingForGoCodeMSec="23774" Arrests="0" CompletedHealthy="4" PerfectAccuracy="2" ChallengesCompleted="6" BombsDisarmed="0"/>
+    </Trooper>
+    <Trooper class="Assaulter">
+        <Id name="Tommy Carpenter" nameAbbrev="T. Carpenter" callsign="Sacheverell" portrait="data/textures/gui/customization/portraits/tcarpenter.tga"/>
+        <Equipment>
+            <Item name="Mp5A3 SMG"/>
+            <Item name="G17 Pistol"/>
+            <Item name="Low Threat Armor"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <InnateAbilities>
+            <InnateAbility name="Marksmanship" percent="45"/>
+            <InnateAbility name="Assault shooting" percent="4"/>
+            <InnateAbility name="Field skills" percent="35"/>
+        </InnateAbilities>
+        <Stats IsDead="0" PreviousXP="0" XP="0" Weapon0="0" Weapon1="0" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="0" BulletsHit="0" Kills="0" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="0" PathModifications="0" DistanceWalkedCM="0" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+    </Trooper>
+    <Trooper class="Assaulter">
+        <Id name="Toke Allure" nameAbbrev="T. Allure" portrait="data/textures/gui/customization/portraits/default9.tga"/>
+        <Equipment>
+            <Item name="Mp5A3 SMG"/>
+            <Item name="G17 Pistol"/>
+            <Item name="Low Threat Armor"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <InnateAbilities>
+            <InnateAbility name="Marksmanship" percent="37"/>
+            <InnateAbility name="Assault shooting" percent="13"/>
+            <InnateAbility name="Field skills" percent="39"/>
+        </InnateAbilities>
+        <Stats IsDead="0" PreviousXP="0" XP="0" Weapon0="0" Weapon1="0" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="0" BulletsHit="0" Kills="0" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="0" PathModifications="0" DistanceWalkedCM="0" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+    </Trooper>
+    <Trooper class="Assaulter">
+        <Id name="Omar Ajab" nameAbbrev="O. Ajab" callsign="Doctor" portrait="data/textures/gui/customization/portraits/default10.tga"/>
+        <Equipment>
+            <Item name="Mp5A3 SMG"/>
+            <Item name="G17 Pistol"/>
+            <Item name="Low Threat Armor"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <InnateAbilities>
+            <InnateAbility name="Marksmanship" percent="7"/>
+            <InnateAbility name="Assault shooting" percent="29"/>
+            <InnateAbility name="Field skills" percent="3"/>
+        </InnateAbilities>
+        <Stats IsDead="0" PreviousXP="0" XP="0" Weapon0="0" Weapon1="0" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="0" BulletsHit="0" Kills="0" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="0" PathModifications="0" DistanceWalkedCM="0" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+    </Trooper>
+    <Trooper class="Assaulter">
+        <Id name="Mark Rathbun" nameAbbrev="M. Rathbun" callsign="Rat Patrol" portrait="data/textures/gui/customization/portraits/mrathbun.tga"/>
+        <Equipment>
+            <Item name="Mp5A3 SMG"/>
+            <Item name="G17 Pistol"/>
+            <Item name="Low Threat Armor"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <InnateAbilities>
+            <InnateAbility name="Marksmanship" percent="51"/>
+            <InnateAbility name="Assault shooting" percent="12"/>
+            <InnateAbility name="Field skills" percent="6"/>
+        </InnateAbilities>
+        <Stats IsDead="0" PreviousXP="0" XP="0" Weapon0="0" Weapon1="0" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="0" BulletsHit="0" Kills="0" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="0" PathModifications="0" DistanceWalkedCM="0" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+    </Trooper>
+    <Trooper class="Assaulter">
+        <Id name="Michael Charge" nameAbbrev="M. Charge" callsign="OLawdy" portrait="data/textures/gui/customization/portraits/default13.tga"/>
+        <Equipment>
+            <Item name="Mp5A3 SMG"/>
+            <Item name="G17 Pistol"/>
+            <Item name="Low Threat Armor"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <InnateAbilities>
+            <InnateAbility name="Marksmanship" percent="30"/>
+            <InnateAbility name="Assault shooting" percent="2"/>
+            <InnateAbility name="Field skills" percent="17"/>
+        </InnateAbilities>
+        <Stats IsDead="0" PreviousXP="0" XP="0" Weapon0="0" Weapon1="0" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="0" BulletsHit="0" Kills="0" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="0" PathModifications="0" DistanceWalkedCM="0" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+    </Trooper>
+    <Trooper class="Assaulter">
+        <Id name="Steve Harvey" nameAbbrev="S. Harvey" callsign="Snoman" portrait="data/textures/gui/customization/portraits/default14.tga"/>
+        <Equipment>
+            <Item name="Mp5A3 SMG"/>
+            <Item name="G17 Pistol"/>
+            <Item name="Low Threat Armor"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <InnateAbilities>
+            <InnateAbility name="Marksmanship" percent="91"/>
+            <InnateAbility name="Assault shooting" percent="7"/>
+            <InnateAbility name="Field skills" percent="2"/>
+        </InnateAbilities>
+        <Stats IsDead="0" PreviousXP="0" XP="0" Weapon0="0" Weapon1="0" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="0" BulletsHit="0" Kills="0" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="0" PathModifications="0" DistanceWalkedCM="0" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+    </Trooper>
+</Roster>

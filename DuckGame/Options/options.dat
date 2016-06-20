@@ -1,0 +1,12 @@
+<Data>
+  <Options>
+    <sfxVolume>0.5</sfxVolume>
+    <musicVolume>0.5</musicVolume>
+    <shennanigans>true</shennanigans>
+    <fullscreen>true</fullscreen>
+    <resolution>0</resolution>
+    <keyboard1PlayerIndex>0</keyboard1PlayerIndex>
+    <keyboard2PlayerIndex>1</keyboard2PlayerIndex>
+    <_nodeName>Options</_nodeName>
+  </Options>
+</Data>

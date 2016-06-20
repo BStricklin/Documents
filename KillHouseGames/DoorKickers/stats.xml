@@ -1,0 +1,168 @@
+<Root version="1" additionalStars="0">
+    <Map name="data/levels/levelkillhouselvl1.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="2"/>
+            <ElapsedTime value="33072"/>
+            <HostagesCount value="0"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="5"/>
+            <Arrests value="0"/>
+            <AlliesCount value="2"/>
+            <BulletsFired value="8"/>
+            <GrenadesUsed value="2"/>
+            <Hostiles value="5"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Henry Fung" IsDead="0" PreviousXP="0" XP="1130" Weapon0="0" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="5" BulletsHit="5" Kills="3" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="16" PathModifications="2870" DistanceWalkedCM="2421" WaitingForGoCodeMSec="7296" Arrests="0" CompletedHealthy="1" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Marius Neacsa" IsDead="0" PreviousXP="0" XP="1030" Weapon0="0" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="3" BulletsHit="3" Kills="2" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="7" PathModifications="2357" DistanceWalkedCM="2636" WaitingForGoCodeMSec="6976" Arrests="0" CompletedHealthy="1" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/levels/levelkillhouselvl2ch.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="2"/>
+            <ElapsedTime value="13392"/>
+            <HostagesCount value="0"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="5"/>
+            <Arrests value="0"/>
+            <AlliesCount value="2"/>
+            <BulletsFired value="9"/>
+            <GrenadesUsed value="2"/>
+            <Hostiles value="5"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Henry Fung" IsDead="0" PreviousXP="1130" XP="2100" Weapon0="0" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="6" BulletsHit="6" Kills="1" KillsStunnedTarget="1" Injuries="2" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="5" PathModifications="519" DistanceWalkedCM="930" WaitingForGoCodeMSec="2336" Arrests="0" CompletedHealthy="0" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Marius Neacsa" IsDead="0" PreviousXP="1030" XP="2240" Weapon0="0" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="3" BulletsHit="3" Kills="1" KillsStunnedTarget="2" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="2" PathModifications="503" DistanceWalkedCM="878" WaitingForGoCodeMSec="2512" Arrests="0" CompletedHealthy="1" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/levels/levelkillapart.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="3"/>
+            <ElapsedTime value="17328"/>
+            <HostagesCount value="0"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="4"/>
+            <Arrests value="0"/>
+            <AlliesCount value="2"/>
+            <BulletsFired value="16"/>
+            <GrenadesUsed value="3"/>
+            <Hostiles value="4"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Henry Fung" IsDead="0" PreviousXP="2100" XP="3160" Weapon0="0" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="4" BulletsHit="4" Kills="2" KillsStunnedTarget="0" Injuries="1" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="2" Paths="2" PathModifications="409" DistanceWalkedCM="1112" WaitingForGoCodeMSec="1408" Arrests="0" CompletedHealthy="0" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Marius Neacsa" IsDead="0" PreviousXP="2240" XP="3110" Weapon0="0" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="12" BulletsHit="6" Kills="1" KillsStunnedTarget="1" Injuries="3" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="2" PathModifications="496" DistanceWalkedCM="1073" WaitingForGoCodeMSec="3680" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/levels/levelkillhouse1.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="3"/>
+            <ElapsedTime value="5280"/>
+            <HostagesCount value="0"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="4"/>
+            <Arrests value="0"/>
+            <AlliesCount value="2"/>
+            <BulletsFired value="7"/>
+            <GrenadesUsed value="1"/>
+            <Hostiles value="4"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Henry Fung" IsDead="0" PreviousXP="3160" XP="5230" Weapon0="0" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="3" BulletsHit="3" Kills="1" KillsStunnedTarget="1" Injuries="1" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="0" PathModifications="0" DistanceWalkedCM="218" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="1" ChallengesCompleted="2" BombsDisarmed="0"/>
+                <Soldier Name="Marius Neacsa" IsDead="0" PreviousXP="3110" XP="5010" Weapon0="0" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="4" BulletsHit="3" Kills="2" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="0" PathModifications="0" DistanceWalkedCM="318" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="2" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="5"/>
+    </Map>
+    <Map name="data/levels/level1bedroomapart.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="2"/>
+            <ElapsedTime value="34992"/>
+            <HostagesCount value="0"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="4"/>
+            <Arrests value="0"/>
+            <AlliesCount value="1"/>
+            <BulletsFired value="18"/>
+            <GrenadesUsed value="1"/>
+            <Hostiles value="4"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Henry Fung" IsDead="0" PreviousXP="5230" XP="7840" Weapon0="0" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="18" BulletsHit="12" Kills="4" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="1" GrenadesUsed="1" Paths="0" PathModifications="0" DistanceWalkedCM="3534" WaitingForGoCodeMSec="6560" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="3" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="7"/>
+    </Map>
+    <Map name="data/levels/level2bedroomapartch1.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="3"/>
+            <ElapsedTime value="15024"/>
+            <HostagesCount value="0"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="6"/>
+            <Arrests value="0"/>
+            <AlliesCount value="2"/>
+            <BulletsFired value="15"/>
+            <GrenadesUsed value="2"/>
+            <Hostiles value="6"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Marius Neacsa" IsDead="0" PreviousXP="5010" XP="6840" Weapon0="0" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="4" BulletsHit="3" Kills="1" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="0" PathModifications="0" DistanceWalkedCM="1651" WaitingForGoCodeMSec="2672" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="2" BombsDisarmed="0"/>
+                <Soldier Name="Henry Fung" IsDead="0" PreviousXP="7840" XP="10250" Weapon0="0" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="11" BulletsHit="11" Kills="3" KillsStunnedTarget="2" Injuries="3" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="0" PathModifications="0" DistanceWalkedCM="1520" WaitingForGoCodeMSec="4032" Arrests="0" CompletedHealthy="0" PerfectAccuracy="1" ChallengesCompleted="2" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="5"/>
+    </Map>
+    <Map name="data/levels/levelkillhouselargech1.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="3"/>
+            <ElapsedTime value="47872"/>
+            <HostagesCount value="0"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="10"/>
+            <Arrests value="0"/>
+            <AlliesCount value="2"/>
+            <BulletsFired value="27"/>
+            <GrenadesUsed value="1"/>
+            <Hostiles value="10"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Tom Clancy" IsDead="0" PreviousXP="10250" XP="12170" Weapon0="-478975918" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="6" BulletsHit="4" Kills="1" KillsStunnedTarget="1" Injuries="1" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="1" GrenadesUsed="0" Paths="0" PathModifications="0" DistanceWalkedCM="3034" WaitingForGoCodeMSec="11632" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="2" BombsDisarmed="0"/>
+                <Soldier Name="Marius Neacsa" IsDead="0" PreviousXP="6840" XP="9430" Weapon0="-478975918" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="21" BulletsHit="13" Kills="6" KillsStunnedTarget="2" Injuries="2" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="1" GrenadesUsed="1" Paths="0" PathModifications="0" DistanceWalkedCM="3549" WaitingForGoCodeMSec="7840" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="2" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="5"/>
+    </Map>
+    <Map name="data/levels/levelsmallgaragech.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="3"/>
+            <ElapsedTime value="26656"/>
+            <HostagesCount value="0"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="7"/>
+            <Arrests value="0"/>
+            <AlliesCount value="1"/>
+            <BulletsFired value="17"/>
+            <GrenadesUsed value="1"/>
+            <Hostiles value="7"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Tom Clancy" IsDead="0" PreviousXP="12170" XP="15120" Weapon0="-478975918" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="17" BulletsHit="12" Kills="6" KillsStunnedTarget="1" Injuries="4" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="1" GrenadesUsed="1" Paths="0" PathModifications="0" DistanceWalkedCM="2169" WaitingForGoCodeMSec="784" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="3" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="7"/>
+    </Map>
+</Root>

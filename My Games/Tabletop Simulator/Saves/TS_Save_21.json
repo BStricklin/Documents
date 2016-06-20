@@ -1,0 +1,6245 @@
+{
+  "SaveName": "DwD 4 player",
+  "GameMode": "None",
+  "Date": "7/14/2015 1:49:19 PM",
+  "Table": "Table_Custom",
+  "TableURL": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrtUVlHcqN-TuoF2KQi7Uxzadi9UdRZB_btop7Brwh_pSVbM4zjaQtbA",
+  "Sky": "Sky_Tunnel",
+  "SkyURL": "http://blacklabelsociety.com/home/wp-content/uploads/2014/01/spacer.jpg",
+  "Note": "",
+  "Rules": "",
+  "PlayerTurn": "",
+  "Grid": {
+    "Type": 0,
+    "Lines": false,
+    "Snapping": false,
+    "Offset": false,
+    "xSize": 2.0,
+    "ySize": 2.0,
+    "yPosition": 0.0
+  },
+  "Hands": {
+    "Enable": true,
+    "DisableUnused": false,
+    "Hidding": 0
+  },
+  "DrawImage": "iVBORw0KGgoAAAANSUhEUgAAAWAAAADQCAYAAAA53LuNAAAHxElEQVR4Ae3cjW7TMBQG0IF4/1cGDLqSFyWtk9Y/tzmTIN3q+F6fVB9eOvb15YMAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECDwX+PF8SNOI302jvr7eVa+xnGEECBBYV+CVQGwN3Uerf6X+o3k9R4AAgeUFrgTgNnivzBEw9VyvzBPzORIgQCCNwNnQi8A8e94zkJi3jHv33M9qe54AAQJTBM6EXYTkmXPOLCrmL+f0qnGmH2MJECDQVeBnw+wlGCMcewdjzB/1GtozhAABAjkFWgJ41MpK+JbgFcKjxNUhQGBZgXrnO2pHGnW2x2WRNEaAAIEeArNCsNSN2mVd9eMe6zQnAQIEpggc3YIooRe3BGY0NrP2jPWqSYAAgX8C9Y6zfjySp9Sta9ePR/ahFgECBLoJHO2AuxVsnHjvjTgh3IhnGAECOQQeBfDswNsL4RyquiRAgECDwKMALqdHCDZM1X2I+8LdiRUgQGCkwDaAy653pdAdaaEWAQIEhgpsA3ho8cZi/kFohDKMAIFcAkcBvNJOOO5FxzGXsG4JECBwIHAUwAfDh395u/t1H3j4JVCQAIFeAqsHcK91m5cAAQLTBTIE8HYXPB1NAwQIEHiHQIYAfsc6zUGAAIHlBLIFsDfilnsJaYgAgasCewG80k9AXF2X8wgQILC8wK/lO/zeoPvB3z18RoBAYoG9HXDi5WidAAECeQSOAti91jzXUKcECCQV2Atg3+YnvZjaJkAgl8BeAOdagW4JECCQVEAAJ71w2iZAIL/ANoD9roX819QKCBBIIrAN4BXb9obgildFTwQIvCyQIYDLIr0x+PKlNgEBAqsJHAWwWxGrXSn9ECDwcQJHAfxxC7UgAgQIrCYggFe7IvohQOA2AgL4NpfaQgkQWE1AAK92RfRDgMBtBATwbS61hRIgkEUgfvY2jrP6ruvXj2f1oy4BAgTeJmAH/DZKExEgQOCcQJYAtvs9d12NJkAggUCWAC6U/jdcgheUFgkQaBfIFMDtqzKSAAECyQXi2/44zlhOqR1/ZtRXkwABAt0EsuyA3X7o9hIwMQECswSyBPAsH3UJECDQTaA1gGfehrD77Xb5TUyAwMoCEbxxHN3rrLqj16keAQI3FHi2A/Z7gW/4orBkAgTGCDwL4OhCEIeEIwECBAYLlFsBo28HjK43mFQ5AgTuLtC6Aw6nUUEsfEPckQABAn8FIhR7h3BdBzwBAgQ+VuDsj3hFOAbI2fPjvEfHqNFj7kd1PUeAAIGhAldDLkKyNHt1jr2FxrzvnHOvjq8RIEBgusDZe8DRcB2QEZrxnCMBAgQIdBaog7c8rj+/Uvodc1yp6xwCBAhMEah3slcaOArds/OWeco5cbzSi3MIECBwW4F6B1s/fgZSxpaPOP7/zN8ECBD4cIGzO9UWjr0g3auzHbc3pqWeMQQIEEgp0DP0SsDG/NuwrbFiTP01jwkQIPDxAr3D7yh4e9f9+AtngQQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgTuKfAHctxjLf9LrG4AAAAASUVORK5CYII=",
+  "ObjectStates": [
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -23.1906471,
+        "posY": 1.07670665,
+        "posZ": -19.3648129,
+        "rotX": 1.91750564E-06,
+        "rotY": 179.885284,
+        "rotZ": 180.000031,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133249,
+        "g": 0.7133249,
+        "b": 0.7133249
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        4800,
+        4800,
+        4800,
+        4800,
+        4800,
+        4800,
+        4800,
+        4800,
+        4800,
+        4800,
+        4800,
+        4800,
+        4800,
+        4800,
+        4800,
+        4800,
+        4800,
+        4800,
+        4800,
+        4800
+      ],
+      "CustomDeck": {
+        "48": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHSFM3OWRzWmc4M1k",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHVmhFdzdmRWRJeFE"
+        }
+      },
+      "GUID": "f99efe"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -20.6947041,
+        "posY": 1.04670167,
+        "posZ": -19.5885849,
+        "rotX": -7.252414E-08,
+        "rotY": 0.197094411,
+        "rotZ": -2.21556622E-08,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133249,
+        "g": 0.7133249,
+        "b": 0.7133249
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        5000,
+        5000,
+        5000,
+        5000
+      ],
+      "CustomDeck": {
+        "50": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHb0hWMWpGVEFqdjQ",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "e71388"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -17.64951,
+        "posY": 1.04670167,
+        "posZ": -19.5173512,
+        "rotX": 6.290171E-08,
+        "rotY": 180.096115,
+        "rotZ": 8.57423643E-08,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133249,
+        "g": 0.7133249,
+        "b": 0.7133249
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        5200,
+        5200,
+        5200,
+        5200
+      ],
+      "CustomDeck": {
+        "52": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHRDZXUE1ZWjhZREE",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "96f512"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -16.2271862,
+        "posY": 1.03856266,
+        "posZ": -19.4521523,
+        "rotX": -5.96559E-07,
+        "rotY": 180.007843,
+        "rotZ": 3.08121685E-06,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133249,
+        "g": 0.7133249,
+        "b": 0.7133249
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        5300,
+        5300,
+        5300,
+        5300,
+        5300,
+        5300,
+        5300,
+        5300
+      ],
+      "CustomDeck": {
+        "53": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHNUhTWmcxMTRkd00",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "c7ec31"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -8.456333,
+        "posY": 1.08353984,
+        "posZ": -20.3931866,
+        "rotX": -1.59395643E-06,
+        "rotY": 269.162537,
+        "rotZ": 4.45788828E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133249,
+        "g": 0.7133249,
+        "b": 0.7133249
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 5400,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "54": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHbXpLdVBmYndfTE0",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "6b23d2"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 25.4980755,
+        "posY": 1.06454587,
+        "posZ": 21.77917,
+        "rotX": -1.89010814E-06,
+        "rotY": -0.0006976568,
+        "rotZ": 1.75632686E-05,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713317156,
+        "g": 0.713317156,
+        "b": 0.713317156
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        6300,
+        6300,
+        6300,
+        6300,
+        6300,
+        6300,
+        6300,
+        6300,
+        6300,
+        6300,
+        6300,
+        6300,
+        6300,
+        6300,
+        6300,
+        6300,
+        6300,
+        6300,
+        6300,
+        6300
+      ],
+      "CustomDeck": {
+        "63": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHRTB0OXZFWXBVaGM",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZ2UweFl0OEZKTDg"
+        }
+      },
+      "GUID": "5980cd"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 23.93051,
+        "posY": 1.04670167,
+        "posZ": 21.8007431,
+        "rotX": -1.43303964E-06,
+        "rotY": 359.984131,
+        "rotZ": 8.718119E-06,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713317156,
+        "g": 0.713317156,
+        "b": 0.713317156
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        6501,
+        6501,
+        6501,
+        6501
+      ],
+      "CustomDeck": {
+        "65": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHb0hWMWpGVEFqdjQ",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "2c644d"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 19.7002544,
+        "posY": 1.03856266,
+        "posZ": 21.703455,
+        "rotX": 6.125373E-08,
+        "rotY": 0.0241804719,
+        "rotZ": -7.930341E-09,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713317156,
+        "g": 0.713317156,
+        "b": 0.713317156
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        6601,
+        8001,
+        8101,
+        6601,
+        6601,
+        6601,
+        6601,
+        6601
+      ],
+      "CustomDeck": {
+        "66": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHNUhTWmcxMTRkd00",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        },
+        "80": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHNUhTWmcxMTRkd00",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        },
+        "81": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHNUhTWmcxMTRkd00",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "85af2e"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 21.12724,
+        "posY": 1.04670155,
+        "posZ": 21.70445,
+        "rotX": -4.56832367E-06,
+        "rotY": 0.293740064,
+        "rotZ": -2.846667E-06,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713317156,
+        "g": 0.713317156,
+        "b": 0.713317156
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        6701,
+        6701,
+        6701,
+        6701
+      ],
+      "CustomDeck": {
+        "67": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHRDZXUE1ZWjhZREE",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "614e04"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 16.6445045,
+        "posY": 1.08353984,
+        "posZ": 21.8733768,
+        "rotX": 1.58296587E-06,
+        "rotY": 89.99434,
+        "rotZ": -4.60582953E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713317156,
+        "g": 0.713317156,
+        "b": 0.713317156
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 6801,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "68": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHbXpLdVBmYndfTE0",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "83fa43"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 12.1138706,
+        "posY": 3.21590185,
+        "posZ": -9.400421,
+        "rotX": 359.796631,
+        "rotY": 179.926926,
+        "rotZ": -9.40226746E-05,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71332103,
+        "g": 0.71332103,
+        "b": 0.71332103
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 6900,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "69": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHbFVRcDltV3NQaTg",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "12aa99"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 17.4028816,
+        "posY": 3.22599745,
+        "posZ": -12.2395153,
+        "rotX": 359.796661,
+        "rotY": 179.999619,
+        "rotZ": -0.000345171371,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71332103,
+        "g": 0.71332103,
+        "b": 0.71332103
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 7000,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "70": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHbFVRcDltV3NQaTg",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "13d71f"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 17.45905,
+        "posY": 3.36023331,
+        "posZ": -14.6752377,
+        "rotX": 359.7975,
+        "rotY": 179.890686,
+        "rotZ": -0.000114698931,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71332103,
+        "g": 0.71332103,
+        "b": 0.71332103
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 7100,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "71": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHbFVRcDltV3NQaTg",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "1e5d7e"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 20.23108,
+        "posY": 3.21640372,
+        "posZ": -9.528146,
+        "rotX": 359.796661,
+        "rotY": 179.999588,
+        "rotZ": -0.00033600835,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71332103,
+        "g": 0.71332103,
+        "b": 0.71332103
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 7201,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "72": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHbFVRcDltV3NQaTg",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "9fdf75"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 12.1439524,
+        "posY": 3.22544026,
+        "posZ": -12.0914545,
+        "rotX": 359.796631,
+        "rotY": 179.899933,
+        "rotZ": -2.118511E-05,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71332103,
+        "g": 0.71332103,
+        "b": 0.71332103
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 7301,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "73": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHbFVRcDltV3NQaTg",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "0b9316"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 20.1315575,
+        "posY": 3.35991,
+        "posZ": -14.58682,
+        "rotX": 359.7971,
+        "rotY": 179.834152,
+        "rotZ": 1.133834E-05,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71332103,
+        "g": 0.71332103,
+        "b": 0.71332103
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 7401,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "74": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHbFVRcDltV3NQaTg",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "1d861a"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -25.9928646,
+        "posY": 1.08353984,
+        "posZ": 22.0593224,
+        "rotX": -2.81281655E-06,
+        "rotY": 359.4371,
+        "rotZ": 6.84873248E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713317156,
+        "g": 0.713317156,
+        "b": 0.713317156
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 7500,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "75": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHTThGSWRrcFN2NTQ",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHclM0cHgxcnN4cDA"
+        }
+      },
+      "GUID": "508ef8"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -11.3614483,
+        "posY": 1.08353984,
+        "posZ": -23.77492,
+        "rotX": 4.335688E-06,
+        "rotY": 179.9787,
+        "rotZ": 1.826186E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713317156,
+        "g": 0.713317156,
+        "b": 0.713317156
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 800,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "8": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHc1hHTUtRTnVESTg",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHN0duTlQzVy16YTg"
+        }
+      },
+      "GUID": "423a22"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 28.0612583,
+        "posY": 1.08353972,
+        "posZ": 21.644949,
+        "rotX": 3.01016576E-06,
+        "rotY": 269.985443,
+        "rotZ": 1.02509637E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713317156,
+        "g": 0.713317156,
+        "b": 0.713317156
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 7600,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "76": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHRXlMRDc4bGx6OW8",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHMVFubE9PSnA5azg"
+        }
+      },
+      "GUID": "a1ac13"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -23.23241,
+        "posY": 3.21798134,
+        "posZ": -10.0487785,
+        "rotX": 359.796661,
+        "rotY": 179.975586,
+        "rotZ": -0.0002532842,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713309348,
+        "g": 0.713309348,
+        "b": 0.713309348
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 10100,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "101": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHLVg3bmVCYVJOeGc",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "cf1cd8"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 32.49044,
+        "posY": 1.064546,
+        "posZ": 3.971706,
+        "rotX": -9.616346E-06,
+        "rotY": 90.03852,
+        "rotZ": 6.45825639E-06,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713309348,
+        "g": 0.713309348,
+        "b": 0.713309348
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        3400,
+        3400,
+        3400,
+        3400,
+        3400,
+        3400,
+        3400,
+        3400,
+        3400,
+        3400,
+        3400,
+        3400,
+        3400,
+        3400,
+        3400,
+        3400,
+        3400,
+        3400,
+        3400,
+        3400
+      ],
+      "CustomDeck": {
+        "34": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHMEhMc3pFQzlXdU0",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHbVVlQmF2bUJ2dFk"
+        }
+      },
+      "GUID": "32e6b6"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 32.1192665,
+        "posY": 1.08353972,
+        "posZ": 13.44313,
+        "rotX": -5.865352E-08,
+        "rotY": 180.025711,
+        "rotZ": 8.547938E-09,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713309348,
+        "g": 0.713309348,
+        "b": 0.713309348
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 10704,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "107": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHbXpLdVBmYndfTE0",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "445407"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 32.4698334,
+        "posY": 1.04670179,
+        "posZ": 8.983201,
+        "rotX": -4.560312E-06,
+        "rotY": 90.0530548,
+        "rotZ": 5.66188E-06,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713309348,
+        "g": 0.713309348,
+        "b": 0.713309348
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        10904,
+        10904,
+        10904,
+        10904
+      ],
+      "CustomDeck": {
+        "109": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHRDZXUE1ZWjhZREE",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "43aac0"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 32.4865,
+        "posY": 1.04711688,
+        "posZ": 6.01920843,
+        "rotX": -4.534387E-07,
+        "rotY": 269.9894,
+        "rotZ": -2.3236887E-06,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713309348,
+        "g": 0.713309348,
+        "b": 0.713309348
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        11004,
+        11004,
+        11004,
+        11004,
+        11004
+      ],
+      "CustomDeck": {
+        "110": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHb0hWMWpGVEFqdjQ",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "c5338b"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 32.4334641,
+        "posY": 1.03856266,
+        "posZ": 10.5018911,
+        "rotX": 7.092627E-07,
+        "rotY": 90.03533,
+        "rotZ": 3.40269685E-06,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713309348,
+        "g": 0.713309348,
+        "b": 0.713309348
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        11804,
+        11104,
+        11104,
+        11104,
+        11104,
+        11104,
+        11104,
+        11104
+      ],
+      "CustomDeck": {
+        "118": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHNUhTWmcxMTRkd00",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        },
+        "111": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHNUhTWmcxMTRkd00",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "6e64c6"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 14.9441748,
+        "posY": 3.22579432,
+        "posZ": -12.1867294,
+        "rotX": 359.796661,
+        "rotY": 179.999542,
+        "rotZ": -0.0003359856,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71332103,
+        "g": 0.71332103,
+        "b": 0.71332103
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 11304,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "113": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHbFVRcDltV3NQaTg",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "7473eb"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 14.98852,
+        "posY": 3.360384,
+        "posZ": -14.7259111,
+        "rotX": 359.796875,
+        "rotY": 179.874008,
+        "rotZ": 3.902269E-05,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71332103,
+        "g": 0.71332103,
+        "b": 0.71332103
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 11404,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "114": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHbFVRcDltV3NQaTg",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "dc25a0"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -23.1057968,
+        "posY": 1.08353984,
+        "posZ": 22.1508389,
+        "rotX": 8.5696945E-07,
+        "rotY": 89.98009,
+        "rotZ": 4.375085E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133054,
+        "g": 0.7133054,
+        "b": 0.7133054
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 11902,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "119": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHbXpLdVBmYndfTE0",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "24067d"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -20.6003876,
+        "posY": 1.03856277,
+        "posZ": 22.3352222,
+        "rotX": -1.19939034E-06,
+        "rotY": 359.946564,
+        "rotZ": 6.204885E-06,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133054,
+        "g": 0.7133054,
+        "b": 0.7133054
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        12102,
+        12102,
+        12102,
+        13402,
+        13302,
+        12102,
+        12102,
+        12102
+      ],
+      "CustomDeck": {
+        "121": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHNUhTWmcxMTRkd00",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        },
+        "134": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHNUhTWmcxMTRkd00",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        },
+        "133": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHNUhTWmcxMTRkd00",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "f77c4d"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -19.0412483,
+        "posY": 1.04670167,
+        "posZ": 22.3964958,
+        "rotX": 5.841008E-06,
+        "rotY": -0.00365654449,
+        "rotZ": 1.10854735E-05,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133054,
+        "g": 0.7133054,
+        "b": 0.7133054
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        12202,
+        12202,
+        12202,
+        12202
+      ],
+      "CustomDeck": {
+        "122": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHRDZXUE1ZWjhZREE",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "a84140"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -16.2484932,
+        "posY": 1.047117,
+        "posZ": 22.4025078,
+        "rotX": -8.828837E-06,
+        "rotY": 0.0101621291,
+        "rotZ": -1.45360173E-06,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133054,
+        "g": 0.7133054,
+        "b": 0.7133054
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        12402,
+        12402,
+        12402,
+        12402,
+        12402
+      ],
+      "CustomDeck": {
+        "124": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHb0hWMWpGVEFqdjQ",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "c1736f"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -14.7071009,
+        "posY": 1.07670653,
+        "posZ": 22.5073376,
+        "rotX": 1.03909109E-07,
+        "rotY": 359.943085,
+        "rotZ": 180.0,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133054,
+        "g": 0.7133054,
+        "b": 0.7133054
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        12600,
+        12600,
+        12600,
+        12600,
+        12600,
+        12600,
+        12600,
+        12600,
+        12600,
+        12600,
+        12600,
+        12600,
+        12600,
+        12600,
+        12600,
+        12600,
+        12600,
+        12600,
+        12600,
+        12600
+      ],
+      "CustomDeck": {
+        "126": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHN3EyQjBUYW12S2s",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHTDU2SE5seU1GbGM"
+        }
+      },
+      "GUID": "9ab245"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 22.52045,
+        "posY": 1.051121,
+        "posZ": 21.7465343,
+        "rotX": -1.59800675E-06,
+        "rotY": 0.0302859955,
+        "rotZ": 9.939273E-06,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133249,
+        "g": 0.7133249,
+        "b": 0.7133249
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        12701,
+        12701
+      ],
+      "CustomDeck": {
+        "127": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHVC1VYmpHZ180Wms",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "fbc9a2"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 14.8028469,
+        "posY": 3.21557546,
+        "posZ": -9.303806,
+        "rotX": 359.796661,
+        "rotY": 179.312881,
+        "rotZ": 0.00207675667,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71332103,
+        "g": 0.71332103,
+        "b": 0.71332103
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 12802,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "128": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHbFVRcDltV3NQaTg",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "9d4813"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 20.0191936,
+        "posY": 3.225784,
+        "posZ": -12.174799,
+        "rotX": 0.000328529422,
+        "rotY": 270.000061,
+        "rotZ": 359.7964,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71332103,
+        "g": 0.71332103,
+        "b": 0.71332103
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 12902,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "129": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHbFVRcDltV3NQaTg",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "d2af43"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 11.9319077,
+        "posY": 3.360636,
+        "posZ": -14.8041658,
+        "rotX": 359.797028,
+        "rotY": 179.741074,
+        "rotZ": 0.000124968676,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71332103,
+        "g": 0.71332103,
+        "b": 0.71332103
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 13002,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "130": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHbFVRcDltV3NQaTg",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "5b6978"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 25.8713055,
+        "posY": 3.14221334,
+        "posZ": 11.414649,
+        "rotX": 0.0003236269,
+        "rotY": 269.998474,
+        "rotZ": 359.7964,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713301539,
+        "g": 0.713301539,
+        "b": 0.713301539
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 14100,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "141": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHWHY4bm1sd2NiTXM",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "ca82dc"
+    },
+    {
+      "Name": "Custom_Board",
+      "Transform": {
+        "posX": 1.37208176,
+        "posY": 1.21466315,
+        "posZ": 1.11462843,
+        "rotX": 0.00027693616,
+        "rotY": 269.979553,
+        "rotZ": 359.796967,
+        "scaleX": 2.0,
+        "scaleY": 2.0,
+        "scaleZ": 2.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7868674,
+        "g": 0.7868674,
+        "b": 0.7868674
+      },
+      "Grid": true,
+      "Locked": true,
+      "CustomImage": {
+        "ImageURL": "http://i.imgur.com/4g3uThQ.jpg",
+        "WidthScale": 0.665546238
+      },
+      "PhysicsMaterial": {
+        "StaticFriction": 0.4,
+        "DynamicFriction": 0.4,
+        "Bounciness": 0.0,
+        "FrictionCombine": 0,
+        "BounceCombine": 0
+      },
+      "Rigidbody": {
+        "Mass": 50.25,
+        "Drag": 5.0,
+        "AngularDrag": 0.1,
+        "UseGravity": true
+      },
+      "GUID": "352532"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -19.19654,
+        "posY": 1.051121,
+        "posZ": -19.5526142,
+        "rotX": 1.36880573E-07,
+        "rotY": 180.079025,
+        "rotZ": 1.33972321E-07,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133327,
+        "g": 0.7133327,
+        "b": 0.7133327
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        5100,
+        5100
+      ],
+      "CustomDeck": {
+        "51": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHVC1VYmpHZ180Wms",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "c9b4c1"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -16.6773262,
+        "posY": 1.08353972,
+        "posZ": -24.86616,
+        "rotX": -1.34526658E-06,
+        "rotY": 180.09314,
+        "rotZ": 6.255616E-06,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713328838,
+        "g": 0.713328838,
+        "b": 0.713328838
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 4903,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "49": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHQVJyZUxUQlQ1OEk",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHMzJyRnVjc3RQams"
+        }
+      },
+      "GUID": "a114f9"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -16.6589832,
+        "posY": 1.08353984,
+        "posZ": -23.2848663,
+        "rotX": -1.56396709E-07,
+        "rotY": 180.11084,
+        "rotZ": 1.483722E-07,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713328838,
+        "g": 0.713328838,
+        "b": 0.713328838
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 4902,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "49": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHQVJyZUxUQlQ1OEk",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHMzJyRnVjc3RQams"
+        }
+      },
+      "GUID": "404f6a"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -23.1423912,
+        "posY": 1.08353984,
+        "posZ": -21.6197281,
+        "rotX": 4.03061158E-08,
+        "rotY": 180.086609,
+        "rotZ": 2.425662E-07,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713328838,
+        "g": 0.713328838,
+        "b": 0.713328838
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 4905,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "49": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHQVJyZUxUQlQ1OEk",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHMzJyRnVjc3RQams"
+        }
+      },
+      "GUID": "ce97b2"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -14.0954809,
+        "posY": 1.08353972,
+        "posZ": -21.6490631,
+        "rotX": 3.52198732E-08,
+        "rotY": 180.0931,
+        "rotZ": 1.94869045E-07,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713328838,
+        "g": 0.713328838,
+        "b": 0.713328838
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 4914,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "49": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHQVJyZUxUQlQ1OEk",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHMzJyRnVjc3RQams"
+        }
+      },
+      "GUID": "53467f"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -14.1779919,
+        "posY": 1.08353984,
+        "posZ": -24.8639755,
+        "rotX": -1.44850287E-06,
+        "rotY": 180.102737,
+        "rotZ": 5.81642871E-06,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713328838,
+        "g": 0.713328838,
+        "b": 0.713328838
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 4910,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "49": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHQVJyZUxUQlQ1OEk",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHMzJyRnVjc3RQams"
+        }
+      },
+      "GUID": "419296"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -21.07847,
+        "posY": 1.08353984,
+        "posZ": -24.9454823,
+        "rotX": 4.39060877E-08,
+        "rotY": 180.094727,
+        "rotZ": -4.69755932E-08,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713328838,
+        "g": 0.713328838,
+        "b": 0.713328838
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 4901,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "49": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHQVJyZUxUQlQ1OEk",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHMzJyRnVjc3RQams"
+        }
+      },
+      "GUID": "db5007"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -18.9908333,
+        "posY": 1.08353984,
+        "posZ": -24.9371357,
+        "rotX": 2.236459E-07,
+        "rotY": 180.065811,
+        "rotZ": 2.74240875E-07,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713328838,
+        "g": 0.713328838,
+        "b": 0.713328838
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 4908,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "49": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHQVJyZUxUQlQ1OEk",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHMzJyRnVjc3RQams"
+        }
+      },
+      "GUID": "8bfab6"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -18.9183254,
+        "posY": 1.08353984,
+        "posZ": -21.69683,
+        "rotX": -2.75856132E-06,
+        "rotY": 179.700836,
+        "rotZ": 1.27219182E-05,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713328838,
+        "g": 0.713328838,
+        "b": 0.713328838
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 4912,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "49": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHQVJyZUxUQlQ1OEk",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHMzJyRnVjc3RQams"
+        }
+      },
+      "GUID": "617ecc"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -16.639555,
+        "posY": 1.08353984,
+        "posZ": -21.69679,
+        "rotX": 5.24575618E-08,
+        "rotY": 180.051468,
+        "rotZ": -1.17044095E-07,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713328838,
+        "g": 0.713328838,
+        "b": 0.713328838
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 4913,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "49": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHQVJyZUxUQlQ1OEk",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHMzJyRnVjc3RQams"
+        }
+      },
+      "GUID": "cc7bcf"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -18.9340324,
+        "posY": 1.08354,
+        "posZ": -23.2757511,
+        "rotX": -1.74766974E-08,
+        "rotY": 180.109283,
+        "rotZ": 5.028915E-08,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713328838,
+        "g": 0.713328838,
+        "b": 0.713328838
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 4907,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "49": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHQVJyZUxUQlQ1OEk",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHMzJyRnVjc3RQams"
+        }
+      },
+      "GUID": "df0cab"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -23.1810074,
+        "posY": 1.08353984,
+        "posZ": -23.20765,
+        "rotX": -2.7768217E-06,
+        "rotY": 180.072037,
+        "rotZ": 1.26597461E-05,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713328838,
+        "g": 0.713328838,
+        "b": 0.713328838
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 4904,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "49": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHQVJyZUxUQlQ1OEk",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHMzJyRnVjc3RQams"
+        }
+      },
+      "GUID": "8c809c"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -14.0900879,
+        "posY": 1.08353984,
+        "posZ": -23.23823,
+        "rotX": -1.45244246E-06,
+        "rotY": 180.118744,
+        "rotZ": 6.254531E-06,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713328838,
+        "g": 0.713328838,
+        "b": 0.713328838
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 4909,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "49": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHQVJyZUxUQlQ1OEk",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHMzJyRnVjc3RQams"
+        }
+      },
+      "GUID": "e564fd"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -21.0233135,
+        "posY": 1.08354,
+        "posZ": -23.3084,
+        "rotX": 1.97388843E-07,
+        "rotY": 180.103058,
+        "rotZ": 2.84869856E-07,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713328838,
+        "g": 0.713328838,
+        "b": 0.713328838
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 4900,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "49": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHQVJyZUxUQlQ1OEk",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHMzJyRnVjc3RQams"
+        }
+      },
+      "GUID": "6a15d2"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -23.2684784,
+        "posY": 1.08353984,
+        "posZ": -24.8851318,
+        "rotX": 1.74514771E-05,
+        "rotY": 180.050018,
+        "rotZ": -8.398187E-06,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713328838,
+        "g": 0.713328838,
+        "b": 0.713328838
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 4906,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "49": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHQVJyZUxUQlQ1OEk",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHMzJyRnVjc3RQams"
+        }
+      },
+      "GUID": "32ff51"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -20.9895935,
+        "posY": 1.08354,
+        "posZ": -21.6984138,
+        "rotX": 8.625728E-06,
+        "rotY": 180.09816,
+        "rotZ": 4.67650671E-06,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713328838,
+        "g": 0.713328838,
+        "b": 0.713328838
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 4911,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "49": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHQVJyZUxUQlQ1OEk",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHMzJyRnVjc3RQams"
+        }
+      },
+      "GUID": "f6ef59"
+    },
+    {
+      "Name": "FogOfWarTrigger",
+      "Transform": {
+        "posX": -20.0010262,
+        "posY": 2.76604223,
+        "posZ": -23.3985252,
+        "rotX": 0.0,
+        "rotY": 0.267585635,
+        "rotZ": 0.0,
+        "scaleX": 14.63666,
+        "scaleY": 3.5,
+        "scaleZ": 5.16074
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.856002152,
+        "g": 0.10000474,
+        "b": 0.09400465
+      },
+      "Grid": true,
+      "Locked": true,
+      "FogColor": "Red",
+      "FogHidePointers": false,
+      "GUID": ""
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -14.7152538,
+        "posY": 1.08475709,
+        "posZ": 27.45887,
+        "rotX": 1.26787688E-06,
+        "rotY": 359.963959,
+        "rotZ": -6.216999E-06,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713309348,
+        "g": 0.713309348,
+        "b": 0.713309348
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 12506,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "125": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHbF9QTHYzODYyT00",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHODBRTDFCUHNpXzg"
+        }
+      },
+      "GUID": "f10a40"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -14.6791153,
+        "posY": 1.08353984,
+        "posZ": 24.1926937,
+        "rotX": 1.37683912E-06,
+        "rotY": 0.11689131,
+        "rotZ": -6.4619494E-06,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713309348,
+        "g": 0.713309348,
+        "b": 0.713309348
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 12505,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "125": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHbF9QTHYzODYyT00",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHODBRTDFCUHNpXzg"
+        }
+      },
+      "GUID": "44c6bb"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -17.9185658,
+        "posY": 1.084757,
+        "posZ": 27.59332,
+        "rotX": 1.19552487E-05,
+        "rotY": 0.0220069028,
+        "rotZ": 1.601661E-05,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713309348,
+        "g": 0.713309348,
+        "b": 0.713309348
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 12508,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "125": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHbF9QTHYzODYyT00",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHODBRTDFCUHNpXzg"
+        }
+      },
+      "GUID": "7dad8d"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -16.2562065,
+        "posY": 1.08353984,
+        "posZ": 24.1940041,
+        "rotX": 7.17498142E-06,
+        "rotY": 0.0724931955,
+        "rotZ": 1.70615513E-05,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713309348,
+        "g": 0.713309348,
+        "b": 0.713309348
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 12500,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "125": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHbF9QTHYzODYyT00",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHODBRTDFCUHNpXzg"
+        }
+      },
+      "GUID": "15b38f"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -16.2848263,
+        "posY": 1.084757,
+        "posZ": 27.50056,
+        "rotX": 1.12928565E-05,
+        "rotY": 359.987244,
+        "rotZ": 1.25195484E-05,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713309348,
+        "g": 0.713309348,
+        "b": 0.713309348
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 12501,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "125": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHbF9QTHYzODYyT00",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHODBRTDFCUHNpXzg"
+        }
+      },
+      "GUID": "430c65"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -19.6071663,
+        "posY": 1.08475542,
+        "posZ": 25.9997559,
+        "rotX": 359.9108,
+        "rotY": 0.00918381,
+        "rotZ": -6.570512E-05,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713309348,
+        "g": 0.713309348,
+        "b": 0.713309348
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 12513,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "125": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHbF9QTHYzODYyT00",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHODBRTDFCUHNpXzg"
+        }
+      },
+      "GUID": "ad6f72"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -21.232954,
+        "posY": 1.08475709,
+        "posZ": 27.6382618,
+        "rotX": 2.9556445E-06,
+        "rotY": 359.96225,
+        "rotZ": -1.22894317E-05,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713309348,
+        "g": 0.713309348,
+        "b": 0.713309348
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 12510,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "125": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHbF9QTHYzODYyT00",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHODBRTDFCUHNpXzg"
+        }
+      },
+      "GUID": "a0be54"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -17.9342918,
+        "posY": 1.08473289,
+        "posZ": 25.9849873,
+        "rotX": 359.912384,
+        "rotY": 0.0179582573,
+        "rotZ": -3.726577E-05,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713309348,
+        "g": 0.713309348,
+        "b": 0.713309348
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 12512,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "125": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHbF9QTHYzODYyT00",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHODBRTDFCUHNpXzg"
+        }
+      },
+      "GUID": "b1bce3"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -19.6527157,
+        "posY": 1.08354,
+        "posZ": 24.3460217,
+        "rotX": 3.0050353E-06,
+        "rotY": 0.128212169,
+        "rotZ": -1.267035E-05,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713309348,
+        "g": 0.713309348,
+        "b": 0.713309348
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 12502,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "125": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHbF9QTHYzODYyT00",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHODBRTDFCUHNpXzg"
+        }
+      },
+      "GUID": "d2c124"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -21.2321186,
+        "posY": 1.08475733,
+        "posZ": 26.005476,
+        "rotX": -0.002744044,
+        "rotY": 0.00020770749,
+        "rotZ": -3.149991E-05,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713309348,
+        "g": 0.713309348,
+        "b": 0.713309348
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 12514,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "125": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHbF9QTHYzODYyT00",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHODBRTDFCUHNpXzg"
+        }
+      },
+      "GUID": "02f771"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -21.2679214,
+        "posY": 1.08353984,
+        "posZ": 24.2849236,
+        "rotX": 2.76259766E-06,
+        "rotY": 0.04657871,
+        "rotZ": -1.2596447E-05,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713309348,
+        "g": 0.713309348,
+        "b": 0.713309348
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 12509,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "125": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHbF9QTHYzODYyT00",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHODBRTDFCUHNpXzg"
+        }
+      },
+      "GUID": "5682a8"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -19.5524979,
+        "posY": 1.084757,
+        "posZ": 27.5921459,
+        "rotX": 1.38346322E-05,
+        "rotY": 359.942932,
+        "rotZ": -2.7365763E-08,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713309348,
+        "g": 0.713309348,
+        "b": 0.713309348
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 12503,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "125": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHbF9QTHYzODYyT00",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHODBRTDFCUHNpXzg"
+        }
+      },
+      "GUID": "02dc39"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -16.2602921,
+        "posY": 1.08458054,
+        "posZ": 25.8681488,
+        "rotX": 359.923584,
+        "rotY": -0.003108571,
+        "rotZ": -8.400087E-06,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713309348,
+        "g": 0.713309348,
+        "b": 0.713309348
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 12511,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "125": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHbF9QTHYzODYyT00",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHODBRTDFCUHNpXzg"
+        }
+      },
+      "GUID": "5d75cc"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -14.6877737,
+        "posY": 1.08455217,
+        "posZ": 25.8427334,
+        "rotX": 359.9257,
+        "rotY": 0.00163941481,
+        "rotZ": -3.195727E-05,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713309348,
+        "g": 0.713309348,
+        "b": 0.713309348
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 12504,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "125": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHbF9QTHYzODYyT00",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHODBRTDFCUHNpXzg"
+        }
+      },
+      "GUID": "9cb874"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -17.9456787,
+        "posY": 1.08353984,
+        "posZ": 24.35202,
+        "rotX": 2.90002254E-06,
+        "rotY": 0.112827256,
+        "rotZ": -1.24817934E-05,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713309348,
+        "g": 0.713309348,
+        "b": 0.713309348
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 12507,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "125": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHbF9QTHYzODYyT00",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHODBRTDFCUHNpXzg"
+        }
+      },
+      "GUID": "a59a33"
+    },
+    {
+      "Name": "FogOfWarTrigger",
+      "Transform": {
+        "posX": -18.3446617,
+        "posY": 2.76604247,
+        "posZ": 27.5943813,
+        "rotX": 0.0,
+        "rotY": 179.923813,
+        "rotZ": 0.0,
+        "scaleX": 20.86062,
+        "scaleY": 3.5,
+        "scaleZ": 7.49747133
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.192005709,
+        "g": 0.701003969,
+        "b": 0.168005511
+      },
+      "Grid": true,
+      "Locked": true,
+      "FogColor": "Green",
+      "FogHidePointers": false,
+      "GUID": ""
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 21.5591526,
+        "posY": 1.08475709,
+        "posZ": 27.583744,
+        "rotX": 2.90435378E-06,
+        "rotY": 359.993744,
+        "rotZ": -1.257967E-05,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71332103,
+        "g": 0.71332103,
+        "b": 0.71332103
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 6203,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "62": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHQ3c3UG1fc2JtQjA",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHeGpwOFdfQ2ZseTA"
+        }
+      },
+      "GUID": "6214ae"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 26.6310139,
+        "posY": 1.084779,
+        "posZ": 27.6791477,
+        "rotX": 0.00393303763,
+        "rotY": 359.947327,
+        "rotZ": -0.00177105656,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71332103,
+        "g": 0.71332103,
+        "b": 0.71332103
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 6206,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "62": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHQ3c3UG1fc2JtQjA",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHeGpwOFdfQ2ZseTA"
+        }
+      },
+      "GUID": "8367b3"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 26.7037067,
+        "posY": 1.1604315,
+        "posZ": 26.2159939,
+        "rotX": 354.3122,
+        "rotY": 359.9061,
+        "rotZ": 0.00165593426,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71332103,
+        "g": 0.71332103,
+        "b": 0.71332103
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 6204,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "62": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHQ3c3UG1fc2JtQjA",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHeGpwOFdfQ2ZseTA"
+        }
+      },
+      "GUID": "0caba1"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 24.83693,
+        "posY": 1.08472788,
+        "posZ": 25.9814987,
+        "rotX": 359.912781,
+        "rotY": 0.001435774,
+        "rotZ": -2.41173675E-05,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71332103,
+        "g": 0.71332103,
+        "b": 0.71332103
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 6211,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "62": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHQ3c3UG1fc2JtQjA",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHeGpwOFdfQ2ZseTA"
+        }
+      },
+      "GUID": "3d6db3"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 21.5932312,
+        "posY": 1.084631,
+        "posZ": 25.9103642,
+        "rotX": 359.9199,
+        "rotY": 0.00488407025,
+        "rotZ": -7.56660165E-06,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71332103,
+        "g": 0.71332103,
+        "b": 0.71332103
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 6213,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "62": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHQ3c3UG1fc2JtQjA",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHeGpwOFdfQ2ZseTA"
+        }
+      },
+      "GUID": "059d37"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 23.24009,
+        "posY": 1.084757,
+        "posZ": 27.5491257,
+        "rotX": 2.8075558E-06,
+        "rotY": -0.00173261343,
+        "rotZ": -1.26730556E-05,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71332103,
+        "g": 0.71332103,
+        "b": 0.71332103
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 6208,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "62": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHQ3c3UG1fc2JtQjA",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHeGpwOFdfQ2ZseTA"
+        }
+      },
+      "GUID": "f11b9e"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 26.6128979,
+        "posY": 1.08353984,
+        "posZ": 24.29681,
+        "rotX": 1.19650758E-05,
+        "rotY": 0.142611548,
+        "rotZ": -1.377498E-05,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71332103,
+        "g": 0.71332103,
+        "b": 0.71332103
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 6205,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "62": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHQ3c3UG1fc2JtQjA",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHeGpwOFdfQ2ZseTA"
+        }
+      },
+      "GUID": "918316"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 21.6518822,
+        "posY": 1.08353984,
+        "posZ": 24.212553,
+        "rotX": -1.96911587E-05,
+        "rotY": 0.103975318,
+        "rotZ": 8.071267E-06,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71332103,
+        "g": 0.71332103,
+        "b": 0.71332103
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 6202,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "62": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHQ3c3UG1fc2JtQjA",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHeGpwOFdfQ2ZseTA"
+        }
+      },
+      "GUID": "824f00"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 19.86812,
+        "posY": 1.084585,
+        "posZ": 25.8721867,
+        "rotX": 359.923248,
+        "rotY": -0.00313342479,
+        "rotZ": -1.6083477E-05,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71332103,
+        "g": 0.71332103,
+        "b": 0.71332103
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 6214,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "62": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHQ3c3UG1fc2JtQjA",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHeGpwOFdfQ2ZseTA"
+        }
+      },
+      "GUID": "46b1ac"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 24.8394241,
+        "posY": 1.08353984,
+        "posZ": 24.3064137,
+        "rotX": 3.12868019E-06,
+        "rotY": 0.121543206,
+        "rotZ": -1.26726191E-05,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71332103,
+        "g": 0.71332103,
+        "b": 0.71332103
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 6200,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "62": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHQ3c3UG1fc2JtQjA",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHeGpwOFdfQ2ZseTA"
+        }
+      },
+      "GUID": "cd6bcb"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 24.8804836,
+        "posY": 1.084757,
+        "posZ": 27.6056938,
+        "rotX": 2.72927332E-06,
+        "rotY": 0.009753408,
+        "rotZ": -1.24827229E-05,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71332103,
+        "g": 0.71332103,
+        "b": 0.71332103
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 6201,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "62": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHQ3c3UG1fc2JtQjA",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHeGpwOFdfQ2ZseTA"
+        }
+      },
+      "GUID": "58c037"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 23.217247,
+        "posY": 1.08457649,
+        "posZ": 25.86462,
+        "rotX": 359.923859,
+        "rotY": 0.0136488872,
+        "rotZ": -2.66375246E-05,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71332103,
+        "g": 0.71332103,
+        "b": 0.71332103
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 6212,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "62": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHQ3c3UG1fc2JtQjA",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHeGpwOFdfQ2ZseTA"
+        }
+      },
+      "GUID": "c14284"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 19.9157372,
+        "posY": 1.084757,
+        "posZ": 27.55751,
+        "rotX": 2.8776326E-06,
+        "rotY": 0.009304014,
+        "rotZ": -1.23242244E-05,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71332103,
+        "g": 0.71332103,
+        "b": 0.71332103
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 6210,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "62": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHQ3c3UG1fc2JtQjA",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHeGpwOFdfQ2ZseTA"
+        }
+      },
+      "GUID": "89f7d7"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 23.273962,
+        "posY": 1.08353984,
+        "posZ": 24.22865,
+        "rotX": -2.9430546E-06,
+        "rotY": 0.119572692,
+        "rotZ": 1.24475573E-05,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71332103,
+        "g": 0.71332103,
+        "b": 0.71332103
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 6207,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "62": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHQ3c3UG1fc2JtQjA",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHeGpwOFdfQ2ZseTA"
+        }
+      },
+      "GUID": "e55108"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 19.9491177,
+        "posY": 1.08353984,
+        "posZ": 24.2125778,
+        "rotX": -2.74184163E-06,
+        "rotY": 0.04202112,
+        "rotZ": 1.238816E-05,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71332103,
+        "g": 0.71332103,
+        "b": 0.71332103
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 6209,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "62": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHQ3c3UG1fc2JtQjA",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHeGpwOFdfQ2ZseTA"
+        }
+      },
+      "GUID": "302a8e"
+    },
+    {
+      "Name": "FogOfWarTrigger",
+      "Transform": {
+        "posX": 21.9709549,
+        "posY": 2.76604247,
+        "posZ": 27.0899563,
+        "rotX": 0.0,
+        "rotY": 180.146179,
+        "rotZ": 0.0,
+        "scaleX": 19.2314949,
+        "scaleY": 3.5,
+        "scaleZ": 7.20356941
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.118004985,
+        "g": 0.530005455,
+        "b": 0.99999994
+      },
+      "Grid": true,
+      "Locked": true,
+      "FogColor": "Blue",
+      "FogHidePointers": false,
+      "GUID": ""
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 32.4761124,
+        "posY": 1.051121,
+        "posZ": 7.533761,
+        "rotX": 6.443543E-09,
+        "rotY": 90.02206,
+        "rotZ": 4.543093E-08,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713317156,
+        "g": 0.713317156,
+        "b": 0.713317156
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        10804,
+        10804
+      ],
+      "CustomDeck": {
+        "108": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHVC1VYmpHZ180Wms",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "148107"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 34.72498,
+        "posY": 1.08353984,
+        "posZ": 8.6594,
+        "rotX": -1.38596874E-07,
+        "rotY": 90.0838852,
+        "rotZ": -2.42350524E-07,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133132,
+        "g": 0.7133132,
+        "b": 0.7133132
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 3302,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "33": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHeEFfTlduSVIzRDA",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHM2Vzb1Btc0E2R0E"
+        }
+      },
+      "GUID": "e8a525"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 38.1263924,
+        "posY": 1.08353984,
+        "posZ": 3.33634162,
+        "rotX": 1.11811573E-07,
+        "rotY": 90.10437,
+        "rotZ": -7.34625942E-08,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133132,
+        "g": 0.7133132,
+        "b": 0.7133132
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 3306,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "33": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHeEFfTlduSVIzRDA",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHM2Vzb1Btc0E2R0E"
+        }
+      },
+      "GUID": "51e818"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 34.7845421,
+        "posY": 1.08353984,
+        "posZ": 6.97247648,
+        "rotX": 1.8904318E-06,
+        "rotY": 90.11258,
+        "rotZ": 2.61666469E-06,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133132,
+        "g": 0.7133132,
+        "b": 0.7133132
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 3307,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "33": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHeEFfTlduSVIzRDA",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHM2Vzb1Btc0E2R0E"
+        }
+      },
+      "GUID": "b941e2"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 34.7843552,
+        "posY": 1.08353984,
+        "posZ": 5.20965862,
+        "rotX": 3.08423487E-09,
+        "rotY": 90.08516,
+        "rotZ": -3.82986549E-08,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133132,
+        "g": 0.7133132,
+        "b": 0.7133132
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 3300,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "33": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHeEFfTlduSVIzRDA",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHM2Vzb1Btc0E2R0E"
+        }
+      },
+      "GUID": "7089f0"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 34.68382,
+        "posY": 1.08354,
+        "posZ": 10.3700628,
+        "rotX": 1.70777525E-06,
+        "rotY": 90.1075058,
+        "rotZ": 7.170428E-06,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133132,
+        "g": 0.7133132,
+        "b": 0.7133132
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 3314,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "33": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHeEFfTlduSVIzRDA",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHM2Vzb1Btc0E2R0E"
+        }
+      },
+      "GUID": "fa304e"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 38.0535927,
+        "posY": 1.08353984,
+        "posZ": 8.762664,
+        "rotX": 1.78748378E-05,
+        "rotY": 90.10517,
+        "rotZ": -1.21756957E-05,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133132,
+        "g": 0.7133132,
+        "b": 0.7133132
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 3303,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "33": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHeEFfTlduSVIzRDA",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHM2Vzb1Btc0E2R0E"
+        }
+      },
+      "GUID": "e10eb2"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 34.75301,
+        "posY": 1.08353984,
+        "posZ": 3.47139931,
+        "rotX": -2.078194E-05,
+        "rotY": 90.11825,
+        "rotZ": 8.99731549E-06,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133132,
+        "g": 0.7133132,
+        "b": 0.7133132
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 3305,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "33": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHeEFfTlduSVIzRDA",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHM2Vzb1Btc0E2R0E"
+        }
+      },
+      "GUID": "8cccf2"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 36.30886,
+        "posY": 1.08353984,
+        "posZ": 10.4576712,
+        "rotX": 1.56495037E-06,
+        "rotY": 90.11241,
+        "rotZ": 7.02988928E-06,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133132,
+        "g": 0.7133132,
+        "b": 0.7133132
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 3309,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "33": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHeEFfTlduSVIzRDA",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHM2Vzb1Btc0E2R0E"
+        }
+      },
+      "GUID": "8a23db"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 36.5270538,
+        "posY": 1.08353984,
+        "posZ": 6.98140335,
+        "rotX": 3.175914E-06,
+        "rotY": 90.10727,
+        "rotZ": 2.79247547E-06,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133132,
+        "g": 0.7133132,
+        "b": 0.7133132
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 3312,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "33": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHeEFfTlduSVIzRDA",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHM2Vzb1Btc0E2R0E"
+        }
+      },
+      "GUID": "f5c2b9"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 36.409893,
+        "posY": 1.08353984,
+        "posZ": 3.43528557,
+        "rotX": 2.261551E-07,
+        "rotY": 90.1013,
+        "rotZ": 3.013356E-08,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133132,
+        "g": 0.7133132,
+        "b": 0.7133132
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 3304,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "33": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHeEFfTlduSVIzRDA",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHM2Vzb1Btc0E2R0E"
+        }
+      },
+      "GUID": "b91960"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 38.213623,
+        "posY": 1.08353984,
+        "posZ": 6.925892,
+        "rotX": 2.2285767E-05,
+        "rotY": 90.1075745,
+        "rotZ": -8.352388E-06,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133132,
+        "g": 0.7133132,
+        "b": 0.7133132
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 3308,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "33": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHeEFfTlduSVIzRDA",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHM2Vzb1Btc0E2R0E"
+        }
+      },
+      "GUID": "f27496"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 37.9789429,
+        "posY": 1.08353984,
+        "posZ": 10.46587,
+        "rotX": -1.24741248E-07,
+        "rotY": 90.11338,
+        "rotZ": -1.49539588E-07,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133132,
+        "g": 0.7133132,
+        "b": 0.7133132
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 3310,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "33": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHeEFfTlduSVIzRDA",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHM2Vzb1Btc0E2R0E"
+        }
+      },
+      "GUID": "58d1a6"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 38.1212769,
+        "posY": 1.08353984,
+        "posZ": 4.98984671,
+        "rotX": 2.17350644E-05,
+        "rotY": 90.10034,
+        "rotZ": -5.5280766E-06,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133132,
+        "g": 0.7133132,
+        "b": 0.7133132
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 3301,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "33": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHeEFfTlduSVIzRDA",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHM2Vzb1Btc0E2R0E"
+        }
+      },
+      "GUID": "fd849e"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 36.463028,
+        "posY": 1.08353984,
+        "posZ": 5.13865376,
+        "rotX": 9.487975E-08,
+        "rotY": 90.09763,
+        "rotZ": 1.68378648E-07,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133132,
+        "g": 0.7133132,
+        "b": 0.7133132
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 3311,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "33": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHeEFfTlduSVIzRDA",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHM2Vzb1Btc0E2R0E"
+        }
+      },
+      "GUID": "f78c34"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 36.4025879,
+        "posY": 1.08353984,
+        "posZ": 8.66876,
+        "rotX": 1.33221478E-08,
+        "rotY": 90.1061554,
+        "rotZ": -2.269309E-07,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133132,
+        "g": 0.7133132,
+        "b": 0.7133132
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 3313,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "33": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHeEFfTlduSVIzRDA",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHM2Vzb1Btc0E2R0E"
+        }
+      },
+      "GUID": "933b12"
+    },
+    {
+      "Name": "FogOfWarTrigger",
+      "Transform": {
+        "posX": 40.0680351,
+        "posY": 2.76604247,
+        "posZ": 9.639254,
+        "rotX": 0.0,
+        "rotY": 270.177856,
+        "rotZ": 0.0,
+        "scaleX": 21.1378384,
+        "scaleY": 3.5,
+        "scaleZ": 12.0748167
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.6270047,
+        "g": 0.125005066,
+        "b": 0.941000938
+      },
+      "Grid": true,
+      "Locked": true,
+      "FogColor": "Purple",
+      "FogHidePointers": false,
+      "GUID": ""
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -17.6381569,
+        "posY": 1.05112112,
+        "posZ": 22.4041424,
+        "rotX": 6.375165E-06,
+        "rotY": 0.05938468,
+        "rotZ": 1.25341021E-05,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133132,
+        "g": 0.7133132,
+        "b": 0.7133132
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        12302,
+        12302
+      ],
+      "CustomDeck": {
+        "123": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHVC1VYmpHZ180Wms",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "13c3a0"
+    },
+    {
+      "Name": "DeckCustom",
+      "Transform": {
+        "posX": 33.279007,
+        "posY": 1.16475832,
+        "posZ": -5.99973536,
+        "rotX": -3.27446315E-07,
+        "rotY": -0.005526592,
+        "rotZ": 180.0,
+        "scaleX": 2.0,
+        "scaleY": 2.0,
+        "scaleZ": 2.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133249,
+        "g": 0.7133249,
+        "b": 0.7133249
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": true,
+      "DeckIDs": [
+        14209,
+        14208,
+        14201,
+        14204,
+        14205,
+        14206,
+        14203,
+        14207,
+        14200,
+        14202
+      ],
+      "CustomDeck": {
+        "142": {
+          "FaceURL": "http://i.imgur.com/U0XoX5r.jpg",
+          "BackURL": "http://i.imgur.com/W2kFNol.png"
+        }
+      },
+      "GUID": "a24ded"
+    },
+    {
+      "Name": "DeckCustom",
+      "Transform": {
+        "posX": 33.0554657,
+        "posY": 1.16475821,
+        "posZ": -13.4890661,
+        "rotX": -8.200025E-08,
+        "rotY": 0.000192977459,
+        "rotZ": 180.000015,
+        "scaleX": 2.0,
+        "scaleY": 2.0,
+        "scaleZ": 2.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133249,
+        "g": 0.7133249,
+        "b": 0.7133249
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": true,
+      "DeckIDs": [
+        14305,
+        14302,
+        14306,
+        14304,
+        14309,
+        14307,
+        14303,
+        14300,
+        14301,
+        14308
+      ],
+      "CustomDeck": {
+        "143": {
+          "FaceURL": "http://i.imgur.com/IYpAHoT.jpg",
+          "BackURL": "http://i.imgur.com/1lIzn8C.png"
+        }
+      },
+      "GUID": "b510bf"
+    },
+    {
+      "Name": "DeckCustom",
+      "Transform": {
+        "posX": 32.9951172,
+        "posY": 1.16475821,
+        "posZ": -21.0313644,
+        "rotX": -1.789384E-08,
+        "rotY": -0.00325098541,
+        "rotZ": 180.0,
+        "scaleX": 2.0,
+        "scaleY": 2.0,
+        "scaleZ": 2.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133249,
+        "g": 0.7133249,
+        "b": 0.7133249
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": true,
+      "DeckIDs": [
+        14403,
+        14409,
+        14401,
+        14402,
+        14405,
+        14407,
+        14408,
+        14406,
+        14400,
+        14404
+      ],
+      "CustomDeck": {
+        "144": {
+          "FaceURL": "http://i.imgur.com/oikwep0.jpg",
+          "BackURL": "http://i.imgur.com/bxwx37V.png"
+        }
+      },
+      "GUID": "20360d"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -1.97987938,
+        "posY": 3.20997548,
+        "posZ": -11.1950235,
+        "rotX": -0.000910076,
+        "rotY": 90.1514359,
+        "rotZ": 0.203306437,
+        "scaleX": 0.375,
+        "scaleY": 0.375,
+        "scaleZ": 0.375
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=cb79917j",
+        "DiffuseURL": "http://i.imgur.com/MUxasii.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "661d22"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -2.43485856,
+        "posY": 3.20480728,
+        "posZ": -9.740523,
+        "rotX": -0.00263866084,
+        "rotY": 90.1739349,
+        "rotZ": 0.205951855,
+        "scaleX": 0.375,
+        "scaleY": 0.375,
+        "scaleZ": 0.375
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=cb79917j",
+        "DiffuseURL": "http://i.imgur.com/QKN02eF.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "d56428"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -3.74640679,
+        "posY": 3.21021032,
+        "posZ": -11.2649775,
+        "rotX": 0.00116589468,
+        "rotY": 270.2379,
+        "rotZ": 179.7967,
+        "scaleX": 0.375,
+        "scaleY": 0.375,
+        "scaleZ": 0.375
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=cb79917j",
+        "DiffuseURL": "http://i.imgur.com/JXbUIEy.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "cfa5af"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 14.8466558,
+        "posY": 3.140589,
+        "posZ": 8.11346,
+        "rotX": 0.00151698908,
+        "rotY": 270.3371,
+        "rotZ": 359.7968,
+        "scaleX": 0.375,
+        "scaleY": 0.375,
+        "scaleZ": 0.375
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=4sPyykhC",
+        "DiffuseURL": "http://i.imgur.com/SrCa202.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "75f042"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -1.40388155,
+        "posY": 3.26906323,
+        "posZ": -9.70045948,
+        "rotX": 353.505554,
+        "rotY": 270.1513,
+        "rotZ": 179.79776,
+        "scaleX": 0.375,
+        "scaleY": 0.375,
+        "scaleZ": 0.375
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=cb79917j",
+        "DiffuseURL": "http://i.imgur.com/FSSwZU3.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "c7a11f"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -8.160333,
+        "posY": 3.16275287,
+        "posZ": 1.81997228,
+        "rotX": -0.00142586872,
+        "rotY": 90.29467,
+        "rotZ": 180.203232,
+        "scaleX": 0.375,
+        "scaleY": 0.375,
+        "scaleZ": 0.375
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=4sPyykhC",
+        "DiffuseURL": "http://i.imgur.com/4xRH0jU.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "0bc968"
+    },
+    {
+      "Name": "DeckCustom",
+      "Transform": {
+        "posX": 25.8228683,
+        "posY": 3.251716,
+        "posZ": -4.59048176,
+        "rotX": 359.7969,
+        "rotY": 180.000412,
+        "rotZ": 179.999649,
+        "scaleX": 1.75,
+        "scaleY": 1.75,
+        "scaleZ": 1.75
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133249,
+        "g": 0.7133249,
+        "b": 0.7133249
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        14501,
+        14506,
+        14500,
+        14507,
+        14503,
+        14502,
+        14504,
+        14508,
+        14505
+      ],
+      "CustomDeck": {
+        "145": {
+          "FaceURL": "http://i.imgur.com/JU1E4iz.jpg",
+          "BackURL": "http://i.imgur.com/vzvzZv2.png"
+        }
+      },
+      "GUID": "def3ab"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -1.4667412,
+        "posY": 3.1292696,
+        "posZ": 11.2789164,
+        "rotX": -0.000689975859,
+        "rotY": 90.09023,
+        "rotZ": 180.203232,
+        "scaleX": 0.375,
+        "scaleY": 0.375,
+        "scaleZ": 0.375
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=4sPyykhC",
+        "DiffuseURL": "http://i.imgur.com/rLFbBil.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "0bed8a"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -2.77271152,
+        "posY": 3.19039726,
+        "posZ": -5.97015238,
+        "rotX": 0.00158500415,
+        "rotY": 270.350769,
+        "rotZ": 359.7968,
+        "scaleX": 0.375,
+        "scaleY": 0.375,
+        "scaleZ": 0.375
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=4sPyykhC",
+        "DiffuseURL": "http://i.imgur.com/nIsH6nU.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "6ed397"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -24.5966072,
+        "posY": 3.21562886,
+        "posZ": -13.0703,
+        "rotX": 0.000204091921,
+        "rotY": 269.965271,
+        "rotZ": 359.7967,
+        "scaleX": 0.375,
+        "scaleY": 0.375,
+        "scaleZ": 0.375
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=kX8TMqku",
+        "DiffuseURL": "http://i.imgur.com/SJcj1CR.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "780d16"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -22.8740482,
+        "posY": 3.2158308,
+        "posZ": -13.1242685,
+        "rotX": 0.000229805184,
+        "rotY": 269.9695,
+        "rotZ": 359.796722,
+        "scaleX": 0.375,
+        "scaleY": 0.375,
+        "scaleZ": 0.375
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=kX8TMqku",
+        "DiffuseURL": "http://i.imgur.com/e0W7sFX.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "c5e9b1"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -23.7531433,
+        "posY": 3.22125483,
+        "posZ": -14.657114,
+        "rotX": -0.000389741,
+        "rotY": 90.0,
+        "rotZ": 180.203308,
+        "scaleX": 0.375,
+        "scaleY": 0.375,
+        "scaleZ": 0.375
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=kX8TMqku",
+        "DiffuseURL": "http://i.imgur.com/gQU8w1p.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "f29ab2"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -0.9327265,
+        "posY": 3.17447686,
+        "posZ": -1.47535467,
+        "rotX": 359.900238,
+        "rotY": 240.555847,
+        "rotZ": 359.822876,
+        "scaleX": 0.375,
+        "scaleY": 0.375,
+        "scaleZ": 0.375
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=4sPyykhC",
+        "DiffuseURL": "http://i.imgur.com/o6BTOpp.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "a07bfb"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 3.02971077,
+        "posY": 3.11356449,
+        "posZ": 15.7174273,
+        "rotX": -0.00148929481,
+        "rotY": 90.3091,
+        "rotZ": 180.203232,
+        "scaleX": 0.375,
+        "scaleY": 0.375,
+        "scaleZ": 0.375
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=4sPyykhC",
+        "DiffuseURL": "http://i.imgur.com/HdINq5z.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "9528e6"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 16.1046486,
+        "posY": 3.22774577,
+        "posZ": -14.8269348,
+        "rotX": 359.7976,
+        "rotY": 180.001892,
+        "rotZ": -0.000316648249,
+        "scaleX": 0.375,
+        "scaleY": 0.375,
+        "scaleZ": 0.375
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=vWvKp6VG",
+        "DiffuseURL": "http://i.imgur.com/1UlErSK.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "b1b303"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -21.029211,
+        "posY": 3.21983886,
+        "posZ": -14.2525644,
+        "rotX": -0.00103496038,
+        "rotY": 90.18536,
+        "rotZ": 180.203323,
+        "scaleX": 0.375,
+        "scaleY": 0.375,
+        "scaleZ": 0.375
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=kX8TMqku",
+        "DiffuseURL": "http://i.imgur.com/ZfxQRMY.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "1118a1"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -13.9409008,
+        "posY": 3.14134932,
+        "posZ": 7.84875,
+        "rotX": 0.000371905131,
+        "rotY": 270.0138,
+        "rotZ": 359.7968,
+        "scaleX": 0.375,
+        "scaleY": 0.375,
+        "scaleZ": 0.375
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=4sPyykhC",
+        "DiffuseURL": "http://i.imgur.com/QMnNoj8.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "d0ce84"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -11.7108431,
+        "posY": 3.12586284,
+        "posZ": 12.2223558,
+        "rotX": -0.000407043262,
+        "rotY": 90.00272,
+        "rotZ": 180.203232,
+        "scaleX": 0.375,
+        "scaleY": 0.375,
+        "scaleZ": 0.375
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=4sPyykhC",
+        "DiffuseURL": "http://i.imgur.com/ZeikccZ.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "7892d0"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -14.5627365,
+        "posY": 3.15906453,
+        "posZ": 2.84945488,
+        "rotX": 0.0003031897,
+        "rotY": 269.993683,
+        "rotZ": 359.7968,
+        "scaleX": 0.375,
+        "scaleY": 0.375,
+        "scaleZ": 0.375
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=4sPyykhC",
+        "DiffuseURL": "http://i.imgur.com/SK8gkDB.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "ed2fcc"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -16.136116,
+        "posY": 3.14167786,
+        "posZ": 7.751988,
+        "rotX": -0.000431342458,
+        "rotY": 90.0107,
+        "rotZ": 180.203232,
+        "scaleX": 0.375,
+        "scaleY": 0.375,
+        "scaleZ": 0.375
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=4sPyykhC",
+        "DiffuseURL": "http://i.imgur.com/BDVqh4N.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "aa25a5"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -15.6069689,
+        "posY": 3.123097,
+        "posZ": 12.9962168,
+        "rotX": -0.0003634541,
+        "rotY": 89.9941254,
+        "rotZ": 180.203232,
+        "scaleX": 0.375,
+        "scaleY": 0.375,
+        "scaleZ": 0.375
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=4sPyykhC",
+        "DiffuseURL": "http://i.imgur.com/zUiuoTZ.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "2f09c7"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -18.0183563,
+        "posY": 3.12987375,
+        "posZ": 11.0795546,
+        "rotX": 0.000429808337,
+        "rotY": 270.023834,
+        "rotZ": 359.7968,
+        "scaleX": 0.375,
+        "scaleY": 0.375,
+        "scaleZ": 0.375
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=4sPyykhC",
+        "DiffuseURL": "http://i.imgur.com/9KYxR5Q.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "8b7ca1"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -18.6258526,
+        "posY": 3.1488595,
+        "posZ": 5.72152042,
+        "rotX": -0.0004016138,
+        "rotY": 90.01051,
+        "rotZ": 180.203232,
+        "scaleX": 0.375,
+        "scaleY": 0.375,
+        "scaleZ": 0.375
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=4sPyykhC",
+        "DiffuseURL": "http://i.imgur.com/h8dHCTo.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "5de85b"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -18.4466,
+        "posY": 3.17573285,
+        "posZ": -1.86023188,
+        "rotX": -0.0003608061,
+        "rotY": 89.99299,
+        "rotZ": 180.203232,
+        "scaleX": 0.375,
+        "scaleY": 0.375,
+        "scaleZ": 0.375
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=4sPyykhC",
+        "DiffuseURL": "http://i.imgur.com/dufwa6H.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "a240bb"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -21.1763229,
+        "posY": 3.139786,
+        "posZ": 8.276699,
+        "rotX": -0.000431796041,
+        "rotY": 90.01082,
+        "rotZ": 180.203232,
+        "scaleX": 0.375,
+        "scaleY": 0.375,
+        "scaleZ": 0.375
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=4sPyykhC",
+        "DiffuseURL": "http://i.imgur.com/4JQMcMU.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "a2ee1f"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -20.513443,
+        "posY": 3.16268873,
+        "posZ": 1.81646872,
+        "rotX": 0.000376941083,
+        "rotY": 270.013733,
+        "rotZ": 359.7968,
+        "scaleX": 0.375,
+        "scaleY": 0.375,
+        "scaleZ": 0.375
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9999999,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=4sPyykhC",
+        "DiffuseURL": "http://i.imgur.com/ZRbAsFQ.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0
+      },
+      "GUID": "dc98c7"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 17.6013565,
+        "posY": 3.21622014,
+        "posZ": -9.480987,
+        "rotX": 359.796661,
+        "rotY": 179.99942,
+        "rotZ": -0.0003572639,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133249,
+        "g": 0.7133249,
+        "b": 0.7133249
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 11304,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "113": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHbFVRcDltV3NQaTg",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "deaaeb"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -9.184025,
+        "posY": 3.20344353,
+        "posZ": -5.92245674,
+        "rotX": 0.20329541,
+        "rotY": 0.0112082446,
+        "rotZ": 0.0003921208,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713328838,
+        "g": 0.713328838,
+        "b": 0.713328838
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 8300,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "83": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHb0hWMWpGVEFqdjQ",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "a7f76f"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -11.2976294,
+        "posY": 3.20415688,
+        "posZ": -6.127423,
+        "rotX": 0.203292087,
+        "rotY": 0.0102175632,
+        "rotZ": 0.000390973553,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713328838,
+        "g": 0.713328838,
+        "b": 0.713328838
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 8200,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "82": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHb0hWMWpGVEFqdjQ",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "6b6629"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -4.90866566,
+        "posY": 3.20580769,
+        "posZ": -6.582019,
+        "rotX": 0.0008774392,
+        "rotY": 270.1521,
+        "rotZ": 359.796356,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713328838,
+        "g": 0.713328838,
+        "b": 0.713328838
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 8500,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "85": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHNUhTWmcxMTRkd00",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "0dcf5b"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -5.05228,
+        "posY": 3.20052886,
+        "posZ": -5.09288073,
+        "rotX": 0.0002881953,
+        "rotY": 269.9908,
+        "rotZ": 359.7964,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713328838,
+        "g": 0.713328838,
+        "b": 0.713328838
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 8400,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "84": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHRDZXUE1ZWjhZREE",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "119e4b"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -9.097099,
+        "posY": 3.18884945,
+        "posZ": -1.804438,
+        "rotX": 0.00039224897,
+        "rotY": 270.014923,
+        "rotZ": 359.7964,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713328838,
+        "g": 0.713328838,
+        "b": 0.713328838
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 5300,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "53": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHNUhTWmcxMTRkd00",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "7adbf3"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -4.90088463,
+        "posY": 3.12564683,
+        "posZ": 16.0354786,
+        "rotX": 0.203317419,
+        "rotY": 0.00421648566,
+        "rotZ": 0.000367384782,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713309348,
+        "g": 0.713309348,
+        "b": 0.713309348
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 13102,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "131": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHb0hWMWpGVEFqdjQ",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "83590c"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -3.232104,
+        "posY": 3.14133048,
+        "posZ": 11.6131706,
+        "rotX": 0.00348308962,
+        "rotY": 270.885681,
+        "rotZ": 359.79657,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713309348,
+        "g": 0.713309348,
+        "b": 0.713309348
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 13202,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "132": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHRDZXUE1ZWjhZREE",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "00cb84"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -4.851117,
+        "posY": 3.1406405,
+        "posZ": 11.8048277,
+        "rotX": 0.00353811146,
+        "rotY": 270.906,
+        "rotZ": 359.796417,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713309348,
+        "g": 0.713309348,
+        "b": 0.713309348
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 12102,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "121": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHNUhTWmcxMTRkd00",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "583e29"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -3.59866238,
+        "posY": 3.156464,
+        "posZ": 7.342457,
+        "rotX": -0.00280255871,
+        "rotY": 269.117218,
+        "rotZ": 359.7964,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713309348,
+        "g": 0.713309348,
+        "b": 0.713309348
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 12102,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "121": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHNUhTWmcxMTRkd00",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "0fc902"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -0.336803257,
+        "posY": 3.1238265,
+        "posZ": 16.5568523,
+        "rotX": 0.0005741828,
+        "rotY": 270.074615,
+        "rotZ": 359.7964,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71332103,
+        "g": 0.71332103,
+        "b": 0.71332103
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 7801,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "78": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHb0hWMWpGVEFqdjQ",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "9600a7"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 3.16182375,
+        "posY": 3.13815331,
+        "posZ": 12.5204506,
+        "rotX": 0.203313529,
+        "rotY": 359.905121,
+        "rotZ": 2.36589658E-05,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71332103,
+        "g": 0.71332103,
+        "b": 0.71332103
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 7701,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "77": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHb0hWMWpGVEFqdjQ",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "81ea83"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 18.7309113,
+        "posY": 3.20316267,
+        "posZ": -5.79474068,
+        "rotX": 0.143497989,
+        "rotY": 45.0009041,
+        "rotZ": 0.14409785,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133132,
+        "g": 0.7133132,
+        "b": 0.7133132
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 11504,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "115": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHb0hWMWpGVEFqdjQ",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "902f73"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 0.769868553,
+        "posY": 3.13454366,
+        "posZ": 13.5304413,
+        "rotX": 0.00419722451,
+        "rotY": 270.425964,
+        "rotZ": 359.805328,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71332103,
+        "g": 0.71332103,
+        "b": 0.71332103
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 7901,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "79": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHRDZXUE1ZWjhZREE",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "576925"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 1.93480277,
+        "posY": 3.22893667,
+        "posZ": 14.1280413,
+        "rotX": 352.864929,
+        "rotY": 270.863922,
+        "rotZ": 359.7663,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71332103,
+        "g": 0.71332103,
+        "b": 0.71332103
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 6601,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "66": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHNUhTWmcxMTRkd00",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "9b9a8e"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 17.4956512,
+        "posY": 3.16792679,
+        "posZ": 4.144949,
+        "rotX": -1.17393874E-05,
+        "rotY": 269.906464,
+        "rotZ": 359.7964,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133132,
+        "g": 0.7133132,
+        "b": 0.7133132
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 11704,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "117": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHNUhTWmcxMTRkd00",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "9c8ed6"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 17.4456425,
+        "posY": 3.16186666,
+        "posZ": 5.85478973,
+        "rotX": 0.00035338226,
+        "rotY": 270.0025,
+        "rotZ": 359.7964,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133132,
+        "g": 0.7133132,
+        "b": 0.7133132
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 11604,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "116": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHRDZXUE1ZWjhZREE",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "d4da22"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 6.3430686,
+        "posY": 3.149645,
+        "posZ": 9.283773,
+        "rotX": 0.0003770411,
+        "rotY": 270.0154,
+        "rotZ": 359.796417,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71332103,
+        "g": 0.71332103,
+        "b": 0.71332103
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 6601,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "66": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHNUhTWmcxMTRkd00",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "b64dc9"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 13.6515369,
+        "posY": 3.17344332,
+        "posZ": 2.58186054,
+        "rotX": 0.000340168772,
+        "rotY": 270.0044,
+        "rotZ": 359.7964,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133132,
+        "g": 0.7133132,
+        "b": 0.7133132
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 11104,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "111": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHNUhTWmcxMTRkd00",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "59d7d9"
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -38.3273,
+        "posY": 1.0508709,
+        "posZ": 6.550796,
+        "rotX": -1.2449234E-06,
+        "rotY": 180.002884,
+        "rotZ": 180.0,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713336647,
+        "g": 0.713336647,
+        "b": 0.713336647
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        11304,
+        6900,
+        12802,
+        7201
+      ],
+      "CustomDeck": {
+        "113": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHbFVRcDltV3NQaTg",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        },
+        "69": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHbFVRcDltV3NQaTg",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        },
+        "128": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHbFVRcDltV3NQaTg",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        },
+        "72": {
+          "FaceURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHbFVRcDltV3NQaTg",
+          "BackURL": "https://drive.google.com/uc?export=download&id=0B0RcqJIkEXMHZW1wTXgzQXlsM00"
+        }
+      },
+      "GUID": "b087d9"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 24.437542,
+        "posY": 2.263039,
+        "posZ": 34.1282959,
+        "rotX": 0.0,
+        "rotY": 359.800018,
+        "rotZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71325475,
+        "g": 0.71325475,
+        "b": 0.71325475
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 200,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "2": {
+          "FaceURL": "http://i.imgur.com/cRVeCp0.jpg",
+          "BackURL": "http://i.imgur.com/YphfxVh.png"
+        }
+      },
+      "GUID": "57d3c4"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 23.0054,
+        "posY": 2.38234782,
+        "posZ": 34.1233,
+        "rotX": 0.0,
+        "rotY": 359.800018,
+        "rotZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71325475,
+        "g": 0.71325475,
+        "b": 0.71325475
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 201,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "2": {
+          "FaceURL": "http://i.imgur.com/cRVeCp0.jpg",
+          "BackURL": "http://i.imgur.com/YphfxVh.png"
+        }
+      },
+      "GUID": "ea34bc"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 21.5732555,
+        "posY": 2.501852,
+        "posZ": 34.1182976,
+        "rotX": 0.0,
+        "rotY": 359.800018,
+        "rotZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71325475,
+        "g": 0.71325475,
+        "b": 0.71325475
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 202,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "2": {
+          "FaceURL": "http://i.imgur.com/cRVeCp0.jpg",
+          "BackURL": "http://i.imgur.com/YphfxVh.png"
+        }
+      },
+      "GUID": "78e6e3"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 20.1411133,
+        "posY": 2.621196,
+        "posZ": 34.1133,
+        "rotX": 0.0,
+        "rotY": 359.800018,
+        "rotZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71325475,
+        "g": 0.71325475,
+        "b": 0.71325475
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 203,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "2": {
+          "FaceURL": "http://i.imgur.com/cRVeCp0.jpg",
+          "BackURL": "http://i.imgur.com/YphfxVh.png"
+        }
+      },
+      "GUID": "b31648"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 18.70897,
+        "posY": 2.740543,
+        "posZ": 34.1083,
+        "rotX": 0.0,
+        "rotY": 359.800018,
+        "rotZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71325475,
+        "g": 0.71325475,
+        "b": 0.71325475
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 204,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "2": {
+          "FaceURL": "http://i.imgur.com/cRVeCp0.jpg",
+          "BackURL": "http://i.imgur.com/YphfxVh.png"
+        }
+      },
+      "GUID": "290ed1"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 17.2768269,
+        "posY": 2.8598218,
+        "posZ": 34.103302,
+        "rotX": 0.0,
+        "rotY": 359.800018,
+        "rotZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71325475,
+        "g": 0.71325475,
+        "b": 0.71325475
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 206,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "2": {
+          "FaceURL": "http://i.imgur.com/cRVeCp0.jpg",
+          "BackURL": "http://i.imgur.com/YphfxVh.png"
+        }
+      },
+      "GUID": "d1cab4"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 15.8446827,
+        "posY": 2.979336,
+        "posZ": 34.0983047,
+        "rotX": 0.0,
+        "rotY": 359.800018,
+        "rotZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71325475,
+        "g": 0.71325475,
+        "b": 0.71325475
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 207,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "2": {
+          "FaceURL": "http://i.imgur.com/cRVeCp0.jpg",
+          "BackURL": "http://i.imgur.com/YphfxVh.png"
+        }
+      },
+      "GUID": "701485"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 13.5793819,
+        "posY": 1.4886651,
+        "posZ": 22.0129433,
+        "rotX": 15.2280006,
+        "rotY": 1.08175838,
+        "rotZ": 0.04374917,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71325475,
+        "g": 0.71325475,
+        "b": 0.71325475
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 205,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "2": {
+          "FaceURL": "http://i.imgur.com/cRVeCp0.jpg",
+          "BackURL": "http://i.imgur.com/YphfxVh.png"
+        }
+      },
+      "GUID": "923934"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -23.9615173,
+        "posY": 2.26737928,
+        "posZ": -34.115818,
+        "rotX": -1.21531343E-07,
+        "rotY": 179.9974,
+        "rotZ": 2.62684257E-08,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713246942,
+        "g": 0.713246942,
+        "b": 0.713246942
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 107,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "http://i.imgur.com/NVpxLeU.jpg",
+          "BackURL": "http://i.imgur.com/C7DZ4DS.png"
+        }
+      },
+      "GUID": "a64ca9"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -5.3522296,
+        "posY": 1.08353984,
+        "posZ": -20.6223183,
+        "rotX": -1.37523017E-07,
+        "rotY": 179.997452,
+        "rotZ": 1.88779165E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713246942,
+        "g": 0.713246942,
+        "b": 0.713246942
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 106,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "http://i.imgur.com/NVpxLeU.jpg",
+          "BackURL": "http://i.imgur.com/C7DZ4DS.png"
+        }
+      },
+      "GUID": "a5a4c0"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -22.5293655,
+        "posY": 2.38657451,
+        "posZ": -34.115818,
+        "rotX": -2.67018563E-09,
+        "rotY": 179.997559,
+        "rotZ": 3.818312E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713246942,
+        "g": 0.713246942,
+        "b": 0.713246942
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 105,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "http://i.imgur.com/NVpxLeU.jpg",
+          "BackURL": "http://i.imgur.com/C7DZ4DS.png"
+        }
+      },
+      "GUID": "87d1aa"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -19.665062,
+        "posY": 2.62528443,
+        "posZ": -34.115818,
+        "rotX": 7.045493E-06,
+        "rotY": 179.997665,
+        "rotZ": -6.41308452E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713246942,
+        "g": 0.713246942,
+        "b": 0.713246942
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 104,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "http://i.imgur.com/NVpxLeU.jpg",
+          "BackURL": "http://i.imgur.com/C7DZ4DS.png"
+        }
+      },
+      "GUID": "e69126"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -21.0972137,
+        "posY": 2.50593662,
+        "posZ": -34.115818,
+        "rotX": 5.688007E-08,
+        "rotY": 179.997879,
+        "rotZ": 1.332594E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713246942,
+        "g": 0.713246942,
+        "b": 0.713246942
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 103,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "http://i.imgur.com/NVpxLeU.jpg",
+          "BackURL": "http://i.imgur.com/C7DZ4DS.png"
+        }
+      },
+      "GUID": "b82fee"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -15.3686066,
+        "posY": 2.97917175,
+        "posZ": -34.115818,
+        "rotX": 1.124213E-07,
+        "rotY": 179.997879,
+        "rotZ": -1.67525833E-08,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713246942,
+        "g": 0.713246942,
+        "b": 0.713246942
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 102,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "http://i.imgur.com/NVpxLeU.jpg",
+          "BackURL": "http://i.imgur.com/C7DZ4DS.png"
+        }
+      },
+      "GUID": "76af29"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -18.23291,
+        "posY": 2.74446225,
+        "posZ": -34.115818,
+        "rotX": -3.95508959E-09,
+        "rotY": 179.997528,
+        "rotZ": 6.230869E-08,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713246942,
+        "g": 0.713246942,
+        "b": 0.713246942
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 101,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "http://i.imgur.com/NVpxLeU.jpg",
+          "BackURL": "http://i.imgur.com/C7DZ4DS.png"
+        }
+      },
+      "GUID": "9143ee"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -16.8007584,
+        "posY": 2.86269021,
+        "posZ": -34.115818,
+        "rotX": 3.140741E-08,
+        "rotY": 179.998581,
+        "rotZ": -4.35935021E-08,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713246942,
+        "g": 0.713246942,
+        "b": 0.713246942
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 100,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "http://i.imgur.com/NVpxLeU.jpg",
+          "BackURL": "http://i.imgur.com/C7DZ4DS.png"
+        }
+      },
+      "GUID": "2724df"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 51.7141342,
+        "posY": 2.97902775,
+        "posZ": 16.8080349,
+        "rotX": 0.0,
+        "rotY": 90.00002,
+        "rotZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713246942,
+        "g": 0.713246942,
+        "b": 0.713246942
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 407,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "4": {
+          "FaceURL": "http://i.imgur.com/vak0IoD.jpg",
+          "BackURL": "http://i.imgur.com/HRA16WN.png"
+        }
+      },
+      "GUID": "f7f6ab"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 32.4938354,
+        "posY": 1.08353984,
+        "posZ": 16.30672,
+        "rotX": -3.201464E-07,
+        "rotY": 89.99118,
+        "rotZ": 1.04691526E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713246942,
+        "g": 0.713246942,
+        "b": 0.713246942
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 406,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "4": {
+          "FaceURL": "http://i.imgur.com/vak0IoD.jpg",
+          "BackURL": "http://i.imgur.com/HRA16WN.png"
+        }
+      },
+      "GUID": "061fd1"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 51.714138,
+        "posY": 2.85983229,
+        "posZ": 15.3758821,
+        "rotX": 0.0,
+        "rotY": 90.00002,
+        "rotZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713246942,
+        "g": 0.713246942,
+        "b": 0.713246942
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 405,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "4": {
+          "FaceURL": "http://i.imgur.com/vak0IoD.jpg",
+          "BackURL": "http://i.imgur.com/HRA16WN.png"
+        }
+      },
+      "GUID": "893bba"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 51.714138,
+        "posY": 2.74047017,
+        "posZ": 13.94373,
+        "rotX": 0.0,
+        "rotY": 90.00002,
+        "rotZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713246942,
+        "g": 0.713246942,
+        "b": 0.713246942
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 404,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "4": {
+          "FaceURL": "http://i.imgur.com/vak0IoD.jpg",
+          "BackURL": "http://i.imgur.com/HRA16WN.png"
+        }
+      },
+      "GUID": "c93fe0"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 51.714138,
+        "posY": 2.62112236,
+        "posZ": 12.5115786,
+        "rotX": 0.0,
+        "rotY": 90.00002,
+        "rotZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713246942,
+        "g": 0.713246942,
+        "b": 0.713246942
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 403,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "4": {
+          "FaceURL": "http://i.imgur.com/vak0IoD.jpg",
+          "BackURL": "http://i.imgur.com/HRA16WN.png"
+        }
+      },
+      "GUID": "afe972"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 51.714138,
+        "posY": 2.50194454,
+        "posZ": 11.0794268,
+        "rotX": 0.0,
+        "rotY": 90.00002,
+        "rotZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713246942,
+        "g": 0.713246942,
+        "b": 0.713246942
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 402,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "4": {
+          "FaceURL": "http://i.imgur.com/vak0IoD.jpg",
+          "BackURL": "http://i.imgur.com/HRA16WN.png"
+        }
+      },
+      "GUID": "1acb51"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 51.714138,
+        "posY": 2.38253474,
+        "posZ": 9.647275,
+        "rotX": -2.765372E-10,
+        "rotY": 90.01568,
+        "rotZ": 1.654349E-10,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713246942,
+        "g": 0.713246942,
+        "b": 0.713246942
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 401,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "4": {
+          "FaceURL": "http://i.imgur.com/vak0IoD.jpg",
+          "BackURL": "http://i.imgur.com/HRA16WN.png"
+        }
+      },
+      "GUID": "fe3dac"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 51.714138,
+        "posY": 2.26536822,
+        "posZ": 8.215122,
+        "rotX": 0.0,
+        "rotY": 90.00002,
+        "rotZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713246942,
+        "g": 0.713246942,
+        "b": 0.713246942
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 400,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "4": {
+          "FaceURL": "http://i.imgur.com/vak0IoD.jpg",
+          "BackURL": "http://i.imgur.com/HRA16WN.png"
+        }
+      },
+      "GUID": "0b96dd"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -24.0853558,
+        "posY": 2.97902751,
+        "posZ": 34.35899,
+        "rotX": 0.0,
+        "rotY": 1.00179122E-05,
+        "rotZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713246942,
+        "g": 0.713246942,
+        "b": 0.713246942
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 607,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "6": {
+          "FaceURL": "http://i.imgur.com/NDpGKhK.jpg",
+          "BackURL": "http://i.imgur.com/XOoTNGL.png"
+        }
+      },
+      "GUID": "9e6d65"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -22.653204,
+        "posY": 2.85983229,
+        "posZ": 34.35899,
+        "rotX": 0.0,
+        "rotY": 1.00179122E-05,
+        "rotZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713246942,
+        "g": 0.713246942,
+        "b": 0.713246942
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 606,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "6": {
+          "FaceURL": "http://i.imgur.com/NDpGKhK.jpg",
+          "BackURL": "http://i.imgur.com/XOoTNGL.png"
+        }
+      },
+      "GUID": "db6d4d"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -27.97602,
+        "posY": 1.08353984,
+        "posZ": 22.6196327,
+        "rotX": 2.146729E-06,
+        "rotY": -0.00520983851,
+        "rotZ": -2.116021E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713246942,
+        "g": 0.713246942,
+        "b": 0.713246942
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 605,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "6": {
+          "FaceURL": "http://i.imgur.com/NDpGKhK.jpg",
+          "BackURL": "http://i.imgur.com/XOoTNGL.png"
+        }
+      },
+      "GUID": "e51f2d"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -21.2210522,
+        "posY": 2.74047017,
+        "posZ": 34.35899,
+        "rotX": 0.0,
+        "rotY": 1.00179122E-05,
+        "rotZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713246942,
+        "g": 0.713246942,
+        "b": 0.713246942
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 604,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "6": {
+          "FaceURL": "http://i.imgur.com/NDpGKhK.jpg",
+          "BackURL": "http://i.imgur.com/XOoTNGL.png"
+        }
+      },
+      "GUID": "c319b9"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -15.492445,
+        "posY": 2.26719928,
+        "posZ": 34.3589859,
+        "rotX": 0.0,
+        "rotY": 1.00179122E-05,
+        "rotZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713246942,
+        "g": 0.713246942,
+        "b": 0.713246942
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 603,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "6": {
+          "FaceURL": "http://i.imgur.com/NDpGKhK.jpg",
+          "BackURL": "http://i.imgur.com/XOoTNGL.png"
+        }
+      },
+      "GUID": "8ebf10"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -19.7889,
+        "posY": 2.62112236,
+        "posZ": 34.35899,
+        "rotX": 0.0,
+        "rotY": 1.00179122E-05,
+        "rotZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713246942,
+        "g": 0.713246942,
+        "b": 0.713246942
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 602,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "6": {
+          "FaceURL": "http://i.imgur.com/NDpGKhK.jpg",
+          "BackURL": "http://i.imgur.com/XOoTNGL.png"
+        }
+      },
+      "GUID": "d6ad6d"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -18.3567486,
+        "posY": 2.50194454,
+        "posZ": 34.35899,
+        "rotX": 0.0,
+        "rotY": 1.00179122E-05,
+        "rotZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713246942,
+        "g": 0.713246942,
+        "b": 0.713246942
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 601,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "6": {
+          "FaceURL": "http://i.imgur.com/NDpGKhK.jpg",
+          "BackURL": "http://i.imgur.com/XOoTNGL.png"
+        }
+      },
+      "GUID": "43f882"
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -16.9245968,
+        "posY": 2.38468838,
+        "posZ": 34.35899,
+        "rotX": 0.0,
+        "rotY": 1.00179122E-05,
+        "rotZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713246942,
+        "g": 0.713246942,
+        "b": 0.713246942
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 600,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "6": {
+          "FaceURL": "http://i.imgur.com/NDpGKhK.jpg",
+          "BackURL": "http://i.imgur.com/XOoTNGL.png"
+        }
+      },
+      "GUID": "15330a"
+    }
+  ]
+}

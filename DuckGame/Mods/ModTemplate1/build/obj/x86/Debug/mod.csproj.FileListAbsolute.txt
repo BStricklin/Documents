@@ -1,0 +1,8 @@
+C:\Users\bradf\Documents\DuckGame\ModTemplate1\build\obj\x86\Debug\MyMod.dll
+C:\Users\bradf\Documents\DuckGame\ModTemplate1\build\obj\x86\Debug\MyMod.pdb
+C:\Users\bradf\Documents\DuckGame\ModTemplate1\MyMod.dll
+C:\Users\bradf\Documents\DuckGame\ModTemplate1\MyMod.pdb
+C:\Users\bradf\Documents\DuckGame\Mods\ModTemplate1\build\obj\x86\Debug\MyMod.dll
+C:\Users\bradf\Documents\DuckGame\Mods\ModTemplate1\build\obj\x86\Debug\MyMod.pdb
+C:\Users\bradf\Documents\DuckGame\Mods\ModTemplate1\MyMod.dll
+C:\Users\bradf\Documents\DuckGame\Mods\ModTemplate1\MyMod.pdb

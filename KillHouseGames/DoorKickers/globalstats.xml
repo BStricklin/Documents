@@ -1,0 +1,19 @@
+<Root version="1">
+    <KilledHostiles value="235"/>
+    <BulletsFired value="729"/>
+    <GrenadesUsed value="63"/>
+    <TotalMissionTimeS value="1266.0480000000002"/>
+    <ReloadCount value="8"/>
+    <HostageCasualties value="0"/>
+    <SuccessfullMissions value="10"/>
+    <UnsuccessfullMissions value="13"/>
+    <Arrests value="0"/>
+    <SoldiersLost value="40"/>
+    <DoorsBreached value="28"/>
+    <PathsDrawn value="55"/>
+    <SavedHostages value="0"/>
+    <EnemyStuns value="82"/>
+    <DistanceWalked value="1493"/>
+    <TimeWaitingForGo value="510528"/>
+    <BombsDisarmed value="0"/>
+</Root>

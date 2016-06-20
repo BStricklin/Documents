@@ -1,0 +1,5 @@
+G:\github\DuckDebug\Example\build\obj\x86\Debug\mod.csprojResolveAssemblyReference.cache
+G:\github\DuckDebug\Example\build\obj\x86\Debug\MyMod.dll
+G:\github\DuckDebug\Example\build\obj\x86\Debug\MyMod.pdb
+G:\github\DuckDebug\Example\MyMod.dll
+G:\github\DuckDebug\Example\MyMod.pdb
